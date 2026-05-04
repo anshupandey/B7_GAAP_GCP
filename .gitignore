@@ -1,6 +1,6 @@
 .env
 genai
-
+VectorDB_Chroma
 
 
 # Byte-compiled / optimized / DLL files
