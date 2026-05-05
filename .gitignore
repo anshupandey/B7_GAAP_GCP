@@ -1,7 +1,8 @@
 .env
 genai
 VectorDB_Chroma
-
+mlflow.db
+mlflow
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
