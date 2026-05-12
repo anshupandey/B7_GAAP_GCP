@@ -1,3 +1,9 @@
+# Run below command on terminal to install npm
+# sudo apt install npm
+
+# create GITHUB token and store into .enb file as GITHUB_PERSONAL_ACCESS_TOKEN
+
+
 # app.py
 from google.adk.agents import LlmAgent
 from google.adk.tools.mcp_tool import MCPToolset, StdioConnectionParams
@@ -32,7 +38,7 @@ instruction = (
 
 root_agent = LlmAgent(
     name="github_agent",
-    model="gemini-2.0-flash",
-    instruction=instruction,
+    model="gemini-2.5-flash",
+    instruction=instruction+prompt,
     tools=[github_toolset],
 )
