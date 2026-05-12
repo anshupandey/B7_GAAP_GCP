@@ -9,7 +9,7 @@ from langchain_core.tools import tool
 
 from langchain.chat_models import init_chat_model
 from langgraph.checkpoint.memory import MemorySaver
-from langgraph.prebuilt import create_react_agent
+from langchain.agents import create_agent
 from pydantic import BaseModel
 
 
@@ -77,11 +77,11 @@ class CurrencyAgent:
         self.model = init_chat_model(model='gemini-2.0-flash',model_provider='google_genai')
         self.tools = [get_exchange_rate]
 
-        self.graph = create_react_agent(
+        self.graph = create_agent(
             self.model,
             tools=self.tools,
             checkpointer=memory,
-            prompt=self.SYSTEM_INSTRUCTION,
+            system_prompt=self.SYSTEM_INSTRUCTION,
             response_format=ResponseFormat,
         )
 

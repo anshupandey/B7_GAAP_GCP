@@ -1,23 +1,38 @@
-from google.adk.agents import LlmAgent, SequentialAgent
+# app.py
+from google.adk.agents import LlmAgent
 from google.adk.tools.mcp_tool import MCPToolset, StdioConnectionParams
+import os
+from dotenv import load_dotenv
+from .prompt import prompt
 
-server_params = {"command":"python",
-                                      "args":["/home/zadmin/Desktop/B7_GAAP_GCP/mcpserver/mcpserver2.py",'stdio']}
+load_dotenv()
+GITHUB_PERSONAL_ACCESS_TOKEN = os.environ.get("GITHUB_PERSONAL_ACCESS_TOKEN")
+if not GITHUB_PERSONAL_ACCESS_TOKEN:
+    raise RuntimeError("Missing GITHUB_TOKEN in environment (.env)")
+
+
+
+server_params = {
+        "command": "npx",
+        "args": ["-y", "@modelcontextprotocol/server-github", "stdio"],
+        "env": {**os.environ, "GITHUB_TOKEN": GITHUB_PERSONAL_ACCESS_TOKEN},
+    }
 
 conn = StdioConnectionParams(server_params=server_params, timeout=120)
-tools = MCPToolset(connection_params=conn)
 
 
+github_toolset = MCPToolset(connection_params=conn)
 
-agent_prompt = """ You are an expert agentic assistant to human users which provides correct and precise information.
-you are provided with multiple tools, use the tools wherever it suits."""
+# Minimal instruction; keep it simple.
+instruction = (
+    "You are a GitHub assistant. "
+    "Use MCP tools when available. "
+    "For directory listings, call get_file_contents with a directory path."
+)
 
-root_agent = LlmAgent(name='customerServiceWorkflow',
-                      model = "gemini-2.5-flash",
-                      instruction=agent_prompt,
-                                          
-                      description = "Assistant Agent",
-                      tools=[tools]
-                      )
-
-app = root_agent
+root_agent = LlmAgent(
+    name="github_agent",
+    model="gemini-2.0-flash",
+    instruction=instruction,
+    tools=[github_toolset],
+)
