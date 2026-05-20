@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,compliance_tier,avg_lead_time_days,defect_rate_pct,contract_expiry
+SUP-001,Apex Medical Supplies,USA,Tier-1,7,2.1,2027-03-15
+SUP-002,MedTech Global,Germany,Tier-1,12,6.8,2026-06-30
+SUP-003,BioEquip Solutions,China,Tier-3,21,3.4,2026-06-15
+SUP-004,PharmaSource Inc,USA,Tier-1,5,0.8,2027-09-01
+SUP-005,SafeHands PPE,India,Tier-2,18,4.2,2026-12-31
+SUP-006,NovaCare Instruments,Japan,Tier-1,10,1.5,2027-06-30
+SUP-007,GlobalMed Distributors,UK,Tier-2,14,3.9,2026-11-15
+SUP-008,SterileFirst Co,USA,Tier-1,4,0.5,2028-01-01
+SUP-009,MediFlow Logistics,Germany,Tier-2,16,7.2,2026-08-31
+SUP-010,PrecisionHealth Ltd,Japan,Tier-1,8,1.2,2027-04-30
+SUP-011,ChinaMed Express,China,Tier-3,28,5.6,2026-07-15
+SUP-012,EuroSupply GmbH,Germany,Tier-1,11,1.8,2027-08-15
+SUP-013,IndoPharma Corp,India,Tier-2,22,4.8,2026-10-31
+SUP-014,AmeriCare Products,USA,Tier-1,6,0.9,2027-12-31
+SUP-015,QuickShip Medical,UK,Tier-2,9,2.5,2026-09-30
+SUP-016,AsiaHealth Supplies,China,Tier-3,35,8.1,2026-05-31
+SUP-017,Nordic Medical AB,Germany,Tier-1,13,1.1,2027-07-15
+SUP-018,PacificRim Pharma,Japan,Tier-2,15,3.2,2026-12-15
+SUP-019,TrustMed Inc,USA,Tier-1,3,0.3,2028-06-30
+SUP-020,EmergencyMed Direct,India,Tier-3,42,11.5,2026-07-01
