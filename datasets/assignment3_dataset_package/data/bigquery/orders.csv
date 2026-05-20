@@ -1,0 +1,501 @@
+order_id,supplier_id,product_name,category,quantity,unit_price,order_date,delivery_date,status,warehouse_region
+ORD-0001,SUP-004,N95 Respirator Masks,PPE,955,4.01,2025-10-23,2025-11-04,delivered,US-West
+ORD-0002,SUP-018,Surgical Gowns,PPE,765,7.95,2025-07-16,,shipped,US-East
+ORD-0003,SUP-017,Sterile Gauze Pads (Box/200),Consumables,40,11.05,2026-04-06,,shipped,EU-West
+ORD-0004,SUP-019,Saline Solution IV (1L),Pharma,15,6.91,2025-09-20,2025-09-22,delivered,EU-West
+ORD-0005,SUP-007,Wound Closure Strips (Box/50),Consumables,440,9.23,2026-01-11,2026-01-27,delivered,US-East
+ORD-0006,SUP-020,Saline Solution IV (1L),Pharma,65,6.78,2026-04-01,,cancelled,US-East
+ORD-0007,SUP-013,Surgical Gowns,PPE,715,7.05,2026-01-02,2026-01-21,delivered,US-West
+ORD-0008,SUP-008,Wound Closure Strips (Box/50),Consumables,380,19.82,2025-10-28,2025-11-05,delivered,US-East
+ORD-0009,SUP-012,Safety Goggles,PPE,480,8.84,2025-11-14,2025-11-24,delivered,US-East
+ORD-0010,SUP-018,Surgical Tape Rolls,Consumables,320,3.98,2026-01-11,,cancelled,US-Central
+ORD-0011,SUP-018,Amoxicillin Capsules (500ct),Pharma,885,19.46,2025-07-29,2025-08-22,delivered,US-West
+ORD-0012,SUP-011,Digital Thermometers,Equipment,350,16.99,2026-04-17,2026-05-19,delivered,US-Central
+ORD-0013,SUP-013,Alcohol Prep Pads (Box/200),Consumables,595,4.86,2025-09-10,2025-10-07,delivered,US-West
+ORD-0014,SUP-009,Surgical Tape Rolls,Consumables,755,5.57,2026-04-25,2026-05-10,delivered,EU-West
+ORD-0015,SUP-017,Portable Suction Units,Equipment,125,376.73,2025-08-26,2025-09-17,delivered,US-West
+ORD-0016,SUP-014,Sterile Gauze Pads (Box/200),Consumables,90,9.46,2026-02-25,,cancelled,US-Central
+ORD-0017,SUP-001,Syringes 3mL (Box/100),Consumables,930,12.06,2026-04-01,2026-04-10,delivered,US-Central
+ORD-0018,SUP-004,Epinephrine Auto-Injectors,Pharma,565,56.86,2025-07-02,,cancelled,US-Central
+ORD-0019,SUP-006,Stethoscopes,Equipment,145,72.88,2025-11-30,,shipped,US-West
+ORD-0020,SUP-006,Otoscopes,Equipment,685,113.48,2025-12-13,,pending,EU-West
+ORD-0021,SUP-012,Epinephrine Auto-Injectors,Pharma,315,49.34,2026-04-17,,pending,US-East
+ORD-0022,SUP-016,Surgical Gowns,PPE,980,8.73,2025-09-03,,cancelled,US-West
+ORD-0023,SUP-018,Safety Goggles,PPE,345,10.22,2026-02-02,,cancelled,US-West
+ORD-0024,SUP-007,Cotton Swabs (Box/500),Consumables,405,3.6,2026-01-08,2026-01-26,delivered,EU-West
+ORD-0025,SUP-004,Amoxicillin Capsules (500ct),Pharma,295,13.47,2025-07-11,2025-07-13,delivered,US-West
+ORD-0026,SUP-003,Cotton Swabs (Box/500),Consumables,815,2.24,2025-08-04,2025-08-23,delivered,US-East
+ORD-0027,SUP-017,Amoxicillin Capsules (500ct),Pharma,365,27.39,2025-10-18,2025-11-06,delivered,US-West
+ORD-0028,SUP-019,Portable Suction Units,Equipment,320,385.39,2026-01-25,,pending,US-West
+ORD-0029,SUP-014,Hydrocortisone Cream (1oz),Pharma,550,7.29,2025-07-28,,pending,US-East
+ORD-0030,SUP-011,Face Shields,PPE,325,3.77,2026-04-01,,shipped,EU-West
+ORD-0031,SUP-006,Saline Solution IV (1L),Pharma,600,4.62,2025-08-08,2025-08-28,delivered,EU-West
+ORD-0032,SUP-018,Face Shields,PPE,70,5.61,2026-04-03,,cancelled,US-East
+ORD-0033,SUP-008,Safety Goggles,PPE,530,9.89,2025-10-18,,cancelled,EU-West
+ORD-0034,SUP-006,Digital Thermometers,Equipment,10,44.56,2025-11-13,2025-12-01,delivered,EU-West
+ORD-0035,SUP-018,Syringes 3mL (Box/100),Consumables,925,18.76,2025-10-06,,shipped,US-Central
+ORD-0036,SUP-002,Adhesive Bandages (Box/100),Consumables,950,5.71,2025-12-08,,pending,US-East
+ORD-0037,SUP-016,Stethoscopes,Equipment,685,33.66,2026-03-18,,cancelled,US-East
+ORD-0038,SUP-003,Sterile Gauze Pads (Box/200),Consumables,95,12.08,2025-10-29,,shipped,EU-West
+ORD-0039,SUP-019,Amoxicillin Capsules (500ct),Pharma,750,25.67,2025-08-11,2025-08-20,delivered,EU-West
+ORD-0040,SUP-017,Acetaminophen Tablets (1000ct),Pharma,340,10.86,2025-12-08,2025-12-20,delivered,US-West
+ORD-0041,SUP-010,Blood Pressure Monitors,Equipment,410,90.74,2025-08-07,2025-08-21,delivered,US-East
+ORD-0042,SUP-004,Surgical Gowns,PPE,695,6.49,2025-11-13,,cancelled,US-West
+ORD-0043,SUP-003,Amoxicillin Capsules (500ct),Pharma,480,18.55,2026-02-10,2026-03-12,delivered,US-Central
+ORD-0044,SUP-017,N95 Respirator Masks,PPE,860,6.99,2025-12-01,,cancelled,US-East
+ORD-0045,SUP-005,Saline Solution IV (1L),Pharma,155,7.5,2026-04-10,2026-05-04,delivered,US-West
+ORD-0046,SUP-007,Cotton Swabs (Box/500),Consumables,445,2.81,2025-11-13,2025-12-07,delivered,EU-West
+ORD-0047,SUP-002,Surgical Gowns,PPE,820,7.97,2025-11-19,,pending,US-East
+ORD-0048,SUP-005,Alcohol Prep Pads (Box/200),Consumables,345,4.97,2026-02-12,2026-02-28,delivered,EU-West
+ORD-0049,SUP-003,Cotton Swabs (Box/500),Consumables,200,4.18,2026-01-06,2026-01-24,delivered,US-West
+ORD-0050,SUP-010,Hydrocortisone Cream (1oz),Pharma,60,11.19,2025-10-16,2025-10-26,delivered,US-West
+ORD-0051,SUP-018,Pulse Oximeters,Equipment,800,53.73,2025-10-30,,cancelled,US-West
+ORD-0052,SUP-006,Pulse Oximeters,Equipment,40,28.07,2025-12-18,2026-01-07,delivered,EU-West
+ORD-0053,SUP-008,Saline Solution IV (1L),Pharma,210,7.04,2025-08-25,2025-09-08,delivered,EU-West
+ORD-0054,SUP-016,Amoxicillin Capsules (500ct),Pharma,265,30.78,2026-02-21,2026-04-06,delivered,US-Central
+ORD-0055,SUP-008,Amoxicillin Capsules (500ct),Pharma,40,27.18,2026-01-21,2026-01-23,delivered,US-Central
+ORD-0056,SUP-009,Hydrocortisone Cream (1oz),Pharma,830,8.08,2026-04-01,,cancelled,US-Central
+ORD-0057,SUP-004,Saline Solution IV (1L),Pharma,235,6.11,2025-11-13,,shipped,US-East
+ORD-0058,SUP-014,Hydrocortisone Cream (1oz),Pharma,940,10.29,2026-02-09,2026-02-21,delivered,US-East
+ORD-0059,SUP-007,Saline Solution IV (1L),Pharma,65,6.69,2025-07-01,2025-07-13,delivered,US-West
+ORD-0060,SUP-011,Sterile Gauze Pads (Box/200),Consumables,410,11.97,2025-09-02,2025-10-07,delivered,US-Central
+ORD-0061,SUP-014,Acetaminophen Tablets (1000ct),Pharma,525,17.76,2026-04-10,,shipped,US-West
+ORD-0062,SUP-013,Syringes 3mL (Box/100),Consumables,965,26.25,2026-04-18,2026-05-20,delivered,US-Central
+ORD-0063,SUP-001,Epinephrine Auto-Injectors,Pharma,375,60.76,2026-04-23,2026-05-04,delivered,US-Central
+ORD-0064,SUP-007,Stethoscopes,Equipment,615,68.66,2025-09-25,2025-10-16,delivered,US-East
+ORD-0065,SUP-020,Acetaminophen Tablets (1000ct),Pharma,125,19.46,2025-10-29,2025-12-10,delivered,US-Central
+ORD-0066,SUP-005,N95 Respirator Masks,PPE,65,3.85,2026-03-01,2026-03-26,delivered,US-East
+ORD-0067,SUP-019,Insulin Vials (10mL),Pharma,925,66.78,2026-03-11,,shipped,EU-West
+ORD-0068,SUP-001,Wound Closure Strips (Box/50),Consumables,995,18.63,2026-02-03,,shipped,US-West
+ORD-0069,SUP-017,Blood Pressure Monitors,Equipment,70,68.44,2025-09-01,,shipped,EU-West
+ORD-0070,SUP-015,Syringes 3mL (Box/100),Consumables,685,27.78,2025-12-10,2025-12-27,delivered,EU-West
+ORD-0071,SUP-017,Pulse Oximeters,Equipment,710,40.07,2025-09-20,2025-10-12,delivered,EU-West
+ORD-0072,SUP-008,Alcohol Prep Pads (Box/200),Consumables,360,8.59,2026-03-24,2026-03-29,delivered,EU-West
+ORD-0073,SUP-015,Surgical Gowns,PPE,920,7.0,2025-11-17,2025-12-01,delivered,US-Central
+ORD-0074,SUP-003,Disposable Shoe Covers (Box/50),PPE,200,5.16,2025-09-17,,pending,US-West
+ORD-0075,SUP-014,Acetaminophen Tablets (1000ct),Pharma,700,14.52,2025-08-01,2025-08-10,delivered,US-West
+ORD-0076,SUP-019,Cotton Swabs (Box/500),Consumables,35,5.43,2026-04-21,2026-04-26,delivered,EU-West
+ORD-0077,SUP-010,Wound Closure Strips (Box/50),Consumables,505,18.24,2026-01-31,2026-02-09,delivered,US-West
+ORD-0078,SUP-014,Portable Suction Units,Equipment,45,266.66,2026-01-24,2026-01-29,delivered,US-West
+ORD-0079,SUP-020,Otoscopes,Equipment,40,112.55,2026-04-30,,shipped,US-East
+ORD-0080,SUP-014,Disposable Shoe Covers (Box/50),PPE,600,4.91,2025-11-11,2025-11-21,delivered,EU-West
+ORD-0081,SUP-011,Acetaminophen Tablets (1000ct),Pharma,980,20.31,2025-11-20,2025-12-16,delivered,EU-West
+ORD-0082,SUP-016,N95 Respirator Masks,PPE,965,5.47,2025-12-27,,cancelled,US-West
+ORD-0083,SUP-002,Wound Closure Strips (Box/50),Consumables,45,19.4,2025-10-11,2025-10-23,delivered,US-East
+ORD-0084,SUP-005,Portable Suction Units,Equipment,865,184.32,2025-10-20,2025-11-16,delivered,EU-West
+ORD-0085,SUP-012,Safety Goggles,PPE,785,10.86,2025-08-28,,cancelled,US-West
+ORD-0086,SUP-004,Adhesive Bandages (Box/100),Consumables,40,7.64,2026-04-21,2026-05-04,delivered,EU-West
+ORD-0087,SUP-007,Surgical Gowns,PPE,765,9.83,2025-11-02,2025-11-17,delivered,US-East
+ORD-0088,SUP-020,Face Shields,PPE,730,6.13,2025-12-25,,cancelled,EU-West
+ORD-0089,SUP-003,Stethoscopes,Equipment,835,43.77,2026-02-01,,shipped,EU-West
+ORD-0090,SUP-012,Alcohol Prep Pads (Box/200),Consumables,595,8.24,2026-02-08,2026-02-26,delivered,US-West
+ORD-0091,SUP-009,Sterile Gauze Pads (Box/200),Consumables,695,12.97,2026-02-24,2026-03-18,delivered,EU-West
+ORD-0092,SUP-009,Acetaminophen Tablets (1000ct),Pharma,320,19.63,2025-08-14,2025-08-30,delivered,US-Central
+ORD-0093,SUP-015,Adhesive Bandages (Box/100),Consumables,790,6.34,2025-12-20,2025-12-31,delivered,US-East
+ORD-0094,SUP-006,Portable Suction Units,Equipment,280,256.45,2025-11-10,2025-11-26,delivered,US-Central
+ORD-0095,SUP-009,Otoscopes,Equipment,20,81.33,2025-10-06,,shipped,US-East
+ORD-0096,SUP-014,Portable Suction Units,Equipment,720,377.45,2026-03-01,2026-03-04,delivered,EU-West
+ORD-0097,SUP-003,Epinephrine Auto-Injectors,Pharma,290,75.33,2025-11-02,2025-11-25,delivered,US-Central
+ORD-0098,SUP-016,Otoscopes,Equipment,685,67.5,2026-04-08,2026-05-17,delivered,US-Central
+ORD-0099,SUP-009,Epinephrine Auto-Injectors,Pharma,330,62.29,2025-10-07,,shipped,US-Central
+ORD-0100,SUP-018,Wound Closure Strips (Box/50),Consumables,890,10.22,2025-10-19,2025-11-09,delivered,EU-West
+ORD-0101,SUP-017,Sterile Gauze Pads (Box/200),Consumables,370,14.82,2025-10-08,,shipped,US-Central
+ORD-0102,SUP-006,Epinephrine Auto-Injectors,Pharma,25,98.1,2025-09-03,,pending,US-Central
+ORD-0103,SUP-002,Otoscopes,Equipment,380,95.79,2025-09-03,,shipped,EU-West
+ORD-0104,SUP-001,Adhesive Bandages (Box/100),Consumables,370,5.35,2026-02-11,,shipped,US-Central
+ORD-0105,SUP-002,Saline Solution IV (1L),Pharma,620,4.01,2025-08-03,2025-08-21,delivered,EU-West
+ORD-0106,SUP-002,Disposable Shoe Covers (Box/50),PPE,200,8.06,2025-12-03,,cancelled,US-East
+ORD-0107,SUP-004,Otoscopes,Equipment,985,73.29,2025-10-24,2025-11-02,delivered,EU-West
+ORD-0108,SUP-010,Adhesive Bandages (Box/100),Consumables,555,4.53,2025-07-31,,cancelled,US-East
+ORD-0109,SUP-007,Alcohol Prep Pads (Box/200),Consumables,280,5.59,2025-08-11,,shipped,US-West
+ORD-0110,SUP-018,Surgical Gowns,PPE,210,5.02,2026-02-16,2026-03-03,delivered,EU-West
+ORD-0111,SUP-010,Cotton Swabs (Box/500),Consumables,370,4.81,2026-02-18,2026-02-27,delivered,US-East
+ORD-0112,SUP-019,Syringes 3mL (Box/100),Consumables,260,17.65,2026-04-05,2026-04-09,delivered,US-West
+ORD-0113,SUP-005,Surgical Gowns,PPE,85,6.16,2025-12-05,2025-12-27,delivered,US-Central
+ORD-0114,SUP-010,Cotton Swabs (Box/500),Consumables,525,5.77,2026-03-14,2026-03-28,delivered,EU-West
+ORD-0115,SUP-002,Pulse Oximeters,Equipment,950,34.5,2025-11-06,,shipped,US-East
+ORD-0116,SUP-019,Adhesive Bandages (Box/100),Consumables,35,8.0,2025-11-15,2025-11-17,delivered,US-East
+ORD-0117,SUP-016,Stethoscopes,Equipment,840,49.32,2025-11-20,,cancelled,US-West
+ORD-0118,SUP-014,Alcohol Prep Pads (Box/200),Consumables,635,9.81,2026-02-26,2026-03-06,delivered,US-Central
+ORD-0119,SUP-004,Safety Goggles,PPE,430,9.29,2026-03-11,2026-03-19,delivered,US-Central
+ORD-0120,SUP-018,Nitrile Exam Gloves (Box/100),PPE,590,8.62,2025-11-07,,shipped,US-Central
+ORD-0121,SUP-013,Stethoscopes,Equipment,10,61.17,2026-04-04,2026-04-26,delivered,EU-West
+ORD-0122,SUP-017,Hydrocortisone Cream (1oz),Pharma,805,10.05,2026-02-12,,shipped,US-East
+ORD-0123,SUP-018,Disposable Shoe Covers (Box/50),PPE,375,6.19,2026-03-06,,pending,US-East
+ORD-0124,SUP-020,Amoxicillin Capsules (500ct),Pharma,915,15.64,2026-04-09,2026-05-19,delivered,US-East
+ORD-0125,SUP-008,Face Shields,PPE,600,6.79,2025-09-17,,cancelled,EU-West
+ORD-0126,SUP-010,Stethoscopes,Equipment,910,40.04,2026-03-05,,shipped,EU-West
+ORD-0127,SUP-018,Disposable Shoe Covers (Box/50),PPE,500,4.95,2026-03-18,2026-04-03,delivered,US-West
+ORD-0128,SUP-014,Acetaminophen Tablets (1000ct),Pharma,655,11.74,2025-07-02,2025-07-18,delivered,US-Central
+ORD-0129,SUP-019,Adhesive Bandages (Box/100),Consumables,850,5.45,2025-09-15,2025-09-20,delivered,EU-West
+ORD-0130,SUP-011,Otoscopes,Equipment,985,83.47,2026-02-19,,cancelled,US-Central
+ORD-0131,SUP-008,Adhesive Bandages (Box/100),Consumables,500,4.17,2026-01-27,2026-02-04,delivered,US-East
+ORD-0132,SUP-013,Digital Thermometers,Equipment,855,38.77,2025-09-16,,cancelled,EU-West
+ORD-0133,SUP-005,Stethoscopes,Equipment,765,43.26,2025-08-21,,pending,EU-West
+ORD-0134,SUP-015,N95 Respirator Masks,PPE,930,3.29,2025-09-18,2025-09-28,delivered,US-East
+ORD-0135,SUP-011,Sterile Gauze Pads (Box/200),Consumables,895,9.58,2025-08-11,,cancelled,US-Central
+ORD-0136,SUP-018,Digital Thermometers,Equipment,415,33.8,2026-03-07,2026-03-22,delivered,US-East
+ORD-0137,SUP-010,Amoxicillin Capsules (500ct),Pharma,965,14.08,2025-08-20,2025-09-05,delivered,US-East
+ORD-0138,SUP-010,N95 Respirator Masks,PPE,65,4.28,2025-07-29,2025-08-09,delivered,US-Central
+ORD-0139,SUP-005,Amoxicillin Capsules (500ct),Pharma,685,21.48,2025-10-01,,shipped,US-West
+ORD-0140,SUP-020,Digital Thermometers,Equipment,800,35.49,2026-03-12,2026-04-30,delivered,US-West
+ORD-0141,SUP-009,Blood Pressure Monitors,Equipment,335,75.01,2026-02-24,2026-03-11,delivered,US-Central
+ORD-0142,SUP-003,Blood Pressure Monitors,Equipment,450,94.26,2025-12-01,2025-12-26,delivered,EU-West
+ORD-0143,SUP-010,Insulin Vials (10mL),Pharma,500,76.2,2025-08-24,2025-09-03,delivered,US-West
+ORD-0144,SUP-019,Epinephrine Auto-Injectors,Pharma,905,67.14,2026-01-19,,pending,US-Central
+ORD-0145,SUP-002,Sterile Gauze Pads (Box/200),Consumables,960,10.47,2025-11-24,2025-12-08,delivered,US-West
+ORD-0146,SUP-008,Alcohol Prep Pads (Box/200),Consumables,250,7.73,2025-09-09,,cancelled,US-East
+ORD-0147,SUP-002,Epinephrine Auto-Injectors,Pharma,570,47.5,2026-01-03,,shipped,US-West
+ORD-0148,SUP-010,Acetaminophen Tablets (1000ct),Pharma,965,13.82,2025-10-11,2025-10-21,delivered,US-West
+ORD-0149,SUP-017,Stethoscopes,Equipment,355,70.68,2025-11-09,,cancelled,EU-West
+ORD-0150,SUP-010,Surgical Tape Rolls,Consumables,440,7.83,2026-02-25,,shipped,US-East
+ORD-0151,SUP-008,Syringes 3mL (Box/100),Consumables,935,22.14,2026-01-20,,pending,US-Central
+ORD-0152,SUP-013,N95 Respirator Masks,PPE,345,5.45,2026-02-18,2026-03-19,delivered,US-Central
+ORD-0153,SUP-009,Adhesive Bandages (Box/100),Consumables,495,7.11,2026-01-07,2026-01-27,delivered,US-East
+ORD-0154,SUP-001,Sterile Gauze Pads (Box/200),Consumables,725,8.95,2025-10-22,2025-11-02,delivered,US-East
+ORD-0155,SUP-010,Alcohol Prep Pads (Box/200),Consumables,530,4.7,2025-07-24,2025-08-05,delivered,US-East
+ORD-0156,SUP-004,Face Shields,PPE,310,6.55,2025-09-08,2025-09-20,delivered,EU-West
+ORD-0157,SUP-018,Pulse Oximeters,Equipment,760,53.4,2025-09-18,2025-10-13,delivered,EU-West
+ORD-0158,SUP-016,Sterile Gauze Pads (Box/200),Consumables,530,14.45,2025-11-21,,cancelled,US-East
+ORD-0159,SUP-007,Blood Pressure Monitors,Equipment,575,92.03,2026-01-02,,cancelled,US-East
+ORD-0160,SUP-012,Otoscopes,Equipment,835,68.69,2026-01-20,,shipped,US-Central
+ORD-0161,SUP-004,Blood Pressure Monitors,Equipment,125,74.77,2025-07-11,2025-07-16,delivered,US-East
+ORD-0162,SUP-005,Adhesive Bandages (Box/100),Consumables,270,3.34,2026-04-10,2026-05-08,delivered,US-West
+ORD-0163,SUP-008,Acetaminophen Tablets (1000ct),Pharma,1000,10.07,2025-07-02,2025-07-05,delivered,US-Central
+ORD-0164,SUP-005,Otoscopes,Equipment,330,103.88,2025-08-26,,shipped,US-East
+ORD-0165,SUP-012,Amoxicillin Capsules (500ct),Pharma,760,19.45,2025-09-28,,pending,US-Central
+ORD-0166,SUP-014,Stethoscopes,Equipment,155,66.01,2026-03-01,2026-03-12,delivered,EU-West
+ORD-0167,SUP-019,Face Shields,PPE,585,5.02,2025-07-23,2025-07-24,delivered,US-Central
+ORD-0168,SUP-002,Portable Suction Units,Equipment,520,277.88,2025-08-25,,cancelled,EU-West
+ORD-0169,SUP-015,Surgical Gowns,PPE,110,7.25,2025-09-14,,shipped,US-East
+ORD-0170,SUP-020,Alcohol Prep Pads (Box/200),Consumables,755,7.29,2025-12-14,,cancelled,EU-West
+ORD-0171,SUP-017,Epinephrine Auto-Injectors,Pharma,590,82.92,2026-02-06,2026-02-17,delivered,US-East
+ORD-0172,SUP-018,Surgical Tape Rolls,Consumables,285,5.58,2025-10-25,2025-11-13,delivered,EU-West
+ORD-0173,SUP-013,Pulse Oximeters,Equipment,940,24.28,2026-02-04,2026-02-28,delivered,US-Central
+ORD-0174,SUP-005,Syringes 3mL (Box/100),Consumables,615,11.21,2025-08-13,2025-09-08,delivered,US-East
+ORD-0175,SUP-012,Disposable Shoe Covers (Box/50),PPE,720,4.3,2026-04-14,2026-04-28,delivered,US-Central
+ORD-0176,SUP-012,Syringes 3mL (Box/100),Consumables,970,17.61,2025-07-27,2025-08-09,delivered,US-Central
+ORD-0177,SUP-004,Adhesive Bandages (Box/100),Consumables,655,4.06,2026-03-04,2026-03-11,delivered,US-West
+ORD-0178,SUP-018,Hydrocortisone Cream (1oz),Pharma,155,10.1,2026-04-20,2026-05-15,delivered,US-West
+ORD-0179,SUP-018,Wound Closure Strips (Box/50),Consumables,805,15.36,2026-04-12,2026-05-04,delivered,US-East
+ORD-0180,SUP-009,N95 Respirator Masks,PPE,240,4.0,2025-12-06,2025-12-21,delivered,US-Central
+ORD-0181,SUP-005,Adhesive Bandages (Box/100),Consumables,850,5.0,2025-09-11,,pending,US-East
+ORD-0182,SUP-017,Insulin Vials (10mL),Pharma,490,50.19,2025-12-22,2026-01-12,delivered,US-West
+ORD-0183,SUP-011,Wound Closure Strips (Box/50),Consumables,735,15.15,2025-07-27,,shipped,US-West
+ORD-0184,SUP-020,Nitrile Exam Gloves (Box/100),PPE,870,8.57,2026-02-12,2026-03-30,delivered,EU-West
+ORD-0185,SUP-014,Saline Solution IV (1L),Pharma,285,6.9,2025-08-28,2025-09-04,delivered,US-Central
+ORD-0186,SUP-019,Portable Suction Units,Equipment,680,350.14,2025-07-24,2025-08-02,delivered,US-West
+ORD-0187,SUP-002,N95 Respirator Masks,PPE,270,4.16,2025-10-17,,cancelled,US-West
+ORD-0188,SUP-010,Acetaminophen Tablets (1000ct),Pharma,160,8.11,2026-02-06,,shipped,US-West
+ORD-0189,SUP-018,Cotton Swabs (Box/500),Consumables,300,4.0,2025-12-29,2026-01-21,delivered,US-East
+ORD-0190,SUP-002,Pulse Oximeters,Equipment,30,40.69,2025-08-09,2025-08-27,delivered,US-Central
+ORD-0191,SUP-013,Cotton Swabs (Box/500),Consumables,825,3.67,2025-08-28,,pending,EU-West
+ORD-0192,SUP-011,Safety Goggles,PPE,800,9.68,2026-01-02,2026-01-28,delivered,US-East
+ORD-0193,SUP-008,Pulse Oximeters,Equipment,760,38.02,2025-08-10,2025-08-22,delivered,EU-West
+ORD-0194,SUP-011,Amoxicillin Capsules (500ct),Pharma,435,29.92,2025-08-09,2025-09-06,delivered,US-East
+ORD-0195,SUP-012,Hydrocortisone Cream (1oz),Pharma,940,11.67,2025-09-14,,shipped,US-West
+ORD-0196,SUP-009,Insulin Vials (10mL),Pharma,230,61.14,2025-08-08,,cancelled,US-West
+ORD-0197,SUP-016,Blood Pressure Monitors,Equipment,975,68.82,2026-04-23,,cancelled,EU-West
+ORD-0198,SUP-019,Alcohol Prep Pads (Box/200),Consumables,820,9.92,2025-12-13,,shipped,US-Central
+ORD-0199,SUP-003,Portable Suction Units,Equipment,575,339.42,2025-11-18,2025-12-07,delivered,US-East
+ORD-0200,SUP-010,Blood Pressure Monitors,Equipment,585,37.26,2026-01-05,,pending,US-Central
+ORD-0201,SUP-003,Sterile Gauze Pads (Box/200),Consumables,770,10.56,2026-02-22,2026-03-24,delivered,US-East
+ORD-0202,SUP-019,Alcohol Prep Pads (Box/200),Consumables,250,5.93,2026-03-01,,cancelled,US-West
+ORD-0203,SUP-015,Face Shields,PPE,445,6.93,2025-08-13,,pending,US-West
+ORD-0204,SUP-015,Blood Pressure Monitors,Equipment,680,66.36,2025-09-20,2025-09-30,delivered,US-Central
+ORD-0205,SUP-013,Pulse Oximeters,Equipment,1000,35.23,2025-07-27,,pending,US-Central
+ORD-0206,SUP-004,Otoscopes,Equipment,875,70.93,2025-11-07,2025-11-18,delivered,US-West
+ORD-0207,SUP-005,Hydrocortisone Cream (1oz),Pharma,405,11.74,2026-01-17,2026-02-02,delivered,US-West
+ORD-0208,SUP-010,Otoscopes,Equipment,490,91.48,2025-12-16,2026-01-03,delivered,US-West
+ORD-0209,SUP-017,Surgical Gowns,PPE,835,9.69,2026-03-18,,pending,US-Central
+ORD-0210,SUP-010,Safety Goggles,PPE,280,8.73,2026-03-06,,shipped,US-West
+ORD-0211,SUP-005,Disposable Shoe Covers (Box/50),PPE,105,5.48,2025-08-21,2025-09-17,delivered,US-East
+ORD-0212,SUP-020,Disposable Shoe Covers (Box/50),PPE,770,5.88,2025-09-22,,cancelled,US-West
+ORD-0213,SUP-020,Safety Goggles,PPE,930,9.5,2026-01-27,,cancelled,US-Central
+ORD-0214,SUP-008,Blood Pressure Monitors,Equipment,790,52.1,2026-02-15,2026-02-20,delivered,US-West
+ORD-0215,SUP-016,Insulin Vials (10mL),Pharma,480,65.7,2026-04-19,2026-05-25,delivered,EU-West
+ORD-0216,SUP-013,Stethoscopes,Equipment,685,48.03,2025-09-21,2025-10-12,delivered,US-West
+ORD-0217,SUP-009,Nitrile Exam Gloves (Box/100),PPE,830,11.36,2026-01-07,2026-01-28,delivered,US-East
+ORD-0218,SUP-004,Epinephrine Auto-Injectors,Pharma,115,102.23,2025-11-17,,cancelled,EU-West
+ORD-0219,SUP-005,Pulse Oximeters,Equipment,125,62.59,2025-10-22,2025-11-06,delivered,EU-West
+ORD-0220,SUP-014,Nitrile Exam Gloves (Box/100),PPE,515,11.51,2025-10-29,,cancelled,EU-West
+ORD-0221,SUP-012,Amoxicillin Capsules (500ct),Pharma,45,19.33,2025-08-20,2025-08-30,delivered,US-Central
+ORD-0222,SUP-002,Epinephrine Auto-Injectors,Pharma,610,97.21,2025-09-10,2025-09-19,delivered,EU-West
+ORD-0223,SUP-003,N95 Respirator Masks,PPE,335,3.69,2025-09-15,,shipped,EU-West
+ORD-0224,SUP-010,Amoxicillin Capsules (500ct),Pharma,395,14.8,2025-10-31,2025-11-14,delivered,EU-West
+ORD-0225,SUP-015,Surgical Gowns,PPE,150,10.86,2026-03-13,2026-03-28,delivered,US-East
+ORD-0226,SUP-008,Cotton Swabs (Box/500),Consumables,190,3.17,2025-07-01,,shipped,US-Central
+ORD-0227,SUP-014,Safety Goggles,PPE,860,11.35,2026-03-26,,pending,US-Central
+ORD-0228,SUP-017,Otoscopes,Equipment,655,102.91,2026-03-17,2026-04-03,delivered,US-East
+ORD-0229,SUP-002,Alcohol Prep Pads (Box/200),Consumables,505,9.89,2025-11-07,2025-11-17,delivered,US-East
+ORD-0230,SUP-012,Amoxicillin Capsules (500ct),Pharma,945,27.11,2025-08-23,,shipped,US-Central
+ORD-0231,SUP-012,Otoscopes,Equipment,440,105.08,2025-09-28,,cancelled,EU-West
+ORD-0232,SUP-016,Alcohol Prep Pads (Box/200),Consumables,240,8.87,2025-08-02,,pending,EU-West
+ORD-0233,SUP-007,Nitrile Exam Gloves (Box/100),PPE,265,14.2,2025-12-09,2026-01-02,delivered,US-Central
+ORD-0234,SUP-018,Portable Suction Units,Equipment,330,160.99,2025-10-06,2025-10-30,delivered,US-Central
+ORD-0235,SUP-002,Alcohol Prep Pads (Box/200),Consumables,430,5.64,2026-01-05,,cancelled,EU-West
+ORD-0236,SUP-015,Digital Thermometers,Equipment,440,44.21,2026-03-12,2026-03-30,delivered,EU-West
+ORD-0237,SUP-017,Saline Solution IV (1L),Pharma,115,6.77,2025-08-10,2025-09-02,delivered,EU-West
+ORD-0238,SUP-006,Otoscopes,Equipment,385,65.7,2025-08-10,2025-08-21,delivered,US-Central
+ORD-0239,SUP-015,Sterile Gauze Pads (Box/200),Consumables,925,9.84,2026-02-13,2026-03-02,delivered,US-Central
+ORD-0240,SUP-012,Sterile Gauze Pads (Box/200),Consumables,565,8.47,2025-07-30,2025-08-13,delivered,US-East
+ORD-0241,SUP-012,Stethoscopes,Equipment,965,62.37,2025-07-16,2025-08-03,delivered,US-West
+ORD-0242,SUP-015,Nitrile Exam Gloves (Box/100),PPE,170,8.47,2026-01-04,2026-01-19,delivered,US-Central
+ORD-0243,SUP-002,Sterile Gauze Pads (Box/200),Consumables,205,12.11,2026-01-06,2026-01-16,delivered,US-Central
+ORD-0244,SUP-019,Disposable Shoe Covers (Box/50),PPE,685,5.83,2025-12-08,,shipped,US-Central
+ORD-0245,SUP-004,N95 Respirator Masks,PPE,950,3.52,2026-03-23,,cancelled,EU-West
+ORD-0246,SUP-004,Saline Solution IV (1L),Pharma,1000,4.67,2026-02-14,,cancelled,US-West
+ORD-0247,SUP-010,Cotton Swabs (Box/500),Consumables,635,2.8,2025-09-08,2025-09-24,delivered,US-East
+ORD-0248,SUP-015,Surgical Gowns,PPE,880,11.77,2025-12-11,2025-12-25,delivered,US-Central
+ORD-0249,SUP-018,Epinephrine Auto-Injectors,Pharma,390,108.85,2025-09-28,2025-10-11,delivered,US-Central
+ORD-0250,SUP-007,Disposable Shoe Covers (Box/50),PPE,310,7.95,2025-07-14,2025-07-30,delivered,US-Central
+ORD-0251,SUP-015,Otoscopes,Equipment,175,88.96,2025-08-14,2025-08-31,delivered,US-East
+ORD-0252,SUP-016,Stethoscopes,Equipment,535,67.3,2026-04-21,,shipped,US-East
+ORD-0253,SUP-011,Alcohol Prep Pads (Box/200),Consumables,100,6.7,2026-03-22,,shipped,US-Central
+ORD-0254,SUP-018,Alcohol Prep Pads (Box/200),Consumables,760,5.09,2025-09-05,2025-09-30,delivered,EU-West
+ORD-0255,SUP-002,Face Shields,PPE,670,3.61,2025-09-23,2025-10-13,delivered,US-West
+ORD-0256,SUP-008,Hydrocortisone Cream (1oz),Pharma,670,11.16,2025-08-10,,shipped,US-Central
+ORD-0257,SUP-018,Saline Solution IV (1L),Pharma,170,6.31,2026-03-31,2026-04-14,delivered,US-East
+ORD-0258,SUP-019,Adhesive Bandages (Box/100),Consumables,205,3.86,2025-12-20,2025-12-21,delivered,US-East
+ORD-0259,SUP-003,Nitrile Exam Gloves (Box/100),PPE,830,13.4,2025-11-13,2025-12-07,delivered,US-West
+ORD-0260,SUP-020,Alcohol Prep Pads (Box/200),Consumables,45,6.99,2026-04-06,,cancelled,US-Central
+ORD-0261,SUP-010,Portable Suction Units,Equipment,320,391.41,2026-01-24,2026-02-09,delivered,US-Central
+ORD-0262,SUP-002,Safety Goggles,PPE,570,9.32,2026-02-23,2026-03-06,delivered,US-West
+ORD-0263,SUP-011,Cotton Swabs (Box/500),Consumables,415,4.94,2025-12-24,,shipped,EU-West
+ORD-0264,SUP-012,Stethoscopes,Equipment,725,30.84,2025-11-01,,shipped,EU-West
+ORD-0265,SUP-015,Amoxicillin Capsules (500ct),Pharma,190,14.23,2025-11-26,2025-12-08,delivered,EU-West
+ORD-0266,SUP-008,Safety Goggles,PPE,425,13.47,2025-12-08,2025-12-16,delivered,US-West
+ORD-0267,SUP-017,Blood Pressure Monitors,Equipment,645,87.74,2026-03-12,,pending,US-East
+ORD-0268,SUP-013,Stethoscopes,Equipment,595,78.17,2025-10-19,,pending,US-Central
+ORD-0269,SUP-010,Portable Suction Units,Equipment,770,414.7,2026-02-26,2026-03-16,delivered,US-Central
+ORD-0270,SUP-004,Pulse Oximeters,Equipment,180,59.71,2026-01-04,2026-01-12,delivered,EU-West
+ORD-0271,SUP-002,Adhesive Bandages (Box/100),Consumables,725,3.97,2026-04-10,,pending,US-Central
+ORD-0272,SUP-017,Blood Pressure Monitors,Equipment,985,67.99,2025-08-30,,cancelled,US-West
+ORD-0273,SUP-013,Hydrocortisone Cream (1oz),Pharma,440,8.46,2026-01-04,,shipped,US-West
+ORD-0274,SUP-017,Digital Thermometers,Equipment,650,16.21,2025-07-20,2025-08-11,delivered,US-West
+ORD-0275,SUP-016,Stethoscopes,Equipment,590,33.19,2026-03-21,2026-05-01,delivered,US-West
+ORD-0276,SUP-011,Safety Goggles,PPE,510,13.92,2025-12-01,2026-01-03,delivered,US-Central
+ORD-0277,SUP-018,Portable Suction Units,Equipment,915,318.88,2026-03-01,2026-03-23,delivered,US-East
+ORD-0278,SUP-004,Pulse Oximeters,Equipment,755,33.85,2025-07-14,2025-07-26,delivered,EU-West
+ORD-0279,SUP-019,Adhesive Bandages (Box/100),Consumables,300,6.61,2026-04-25,,shipped,EU-West
+ORD-0280,SUP-020,Wound Closure Strips (Box/50),Consumables,495,9.77,2025-11-02,2025-12-22,delivered,US-East
+ORD-0281,SUP-004,Insulin Vials (10mL),Pharma,30,51.46,2026-01-31,2026-02-05,delivered,US-West
+ORD-0282,SUP-014,Stethoscopes,Equipment,1000,58.63,2026-02-27,2026-03-10,delivered,US-East
+ORD-0283,SUP-007,Otoscopes,Equipment,425,119.85,2026-03-02,2026-03-15,delivered,EU-West
+ORD-0284,SUP-015,Otoscopes,Equipment,445,83.7,2025-11-13,,shipped,EU-West
+ORD-0285,SUP-008,Saline Solution IV (1L),Pharma,720,4.84,2025-11-30,2025-12-12,delivered,US-Central
+ORD-0286,SUP-016,Acetaminophen Tablets (1000ct),Pharma,620,12.88,2025-11-18,,shipped,US-Central
+ORD-0287,SUP-018,Digital Thermometers,Equipment,515,39.55,2025-09-13,,pending,US-Central
+ORD-0288,SUP-003,Hydrocortisone Cream (1oz),Pharma,575,9.25,2026-03-03,,shipped,US-West
+ORD-0289,SUP-018,Saline Solution IV (1L),Pharma,725,6.63,2025-09-09,2025-09-30,delivered,US-East
+ORD-0290,SUP-008,Amoxicillin Capsules (500ct),Pharma,70,27.41,2026-03-29,2026-03-30,delivered,US-West
+ORD-0291,SUP-004,Pulse Oximeters,Equipment,430,52.28,2025-08-21,,pending,US-West
+ORD-0292,SUP-018,Safety Goggles,PPE,530,11.22,2026-03-01,2026-03-25,delivered,EU-West
+ORD-0293,SUP-010,Acetaminophen Tablets (1000ct),Pharma,375,17.04,2025-08-15,2025-08-31,delivered,US-West
+ORD-0294,SUP-002,Safety Goggles,PPE,540,13.06,2025-09-29,,cancelled,US-East
+ORD-0295,SUP-013,Portable Suction Units,Equipment,245,430.98,2025-11-26,,pending,US-East
+ORD-0296,SUP-019,Sterile Gauze Pads (Box/200),Consumables,145,14.36,2025-12-19,2025-12-29,delivered,US-Central
+ORD-0297,SUP-018,Stethoscopes,Equipment,640,73.91,2025-09-07,2025-10-01,delivered,EU-West
+ORD-0298,SUP-004,Acetaminophen Tablets (1000ct),Pharma,215,18.24,2025-11-09,,pending,US-West
+ORD-0299,SUP-011,Epinephrine Auto-Injectors,Pharma,735,95.58,2025-10-07,2025-11-11,delivered,US-West
+ORD-0300,SUP-013,Pulse Oximeters,Equipment,665,34.76,2026-01-22,,shipped,US-East
+ORD-0301,SUP-005,Portable Suction Units,Equipment,420,430.75,2025-07-04,2025-07-26,delivered,US-Central
+ORD-0302,SUP-009,Acetaminophen Tablets (1000ct),Pharma,395,16.15,2026-04-20,2026-05-08,delivered,US-East
+ORD-0303,SUP-008,Nitrile Exam Gloves (Box/100),PPE,860,8.83,2025-12-05,2025-12-14,delivered,US-West
+ORD-0304,SUP-010,Cotton Swabs (Box/500),Consumables,160,4.55,2025-11-29,2025-12-07,delivered,US-Central
+ORD-0305,SUP-005,Portable Suction Units,Equipment,205,286.49,2026-01-08,2026-01-30,delivered,EU-West
+ORD-0306,SUP-018,Syringes 3mL (Box/100),Consumables,285,23.71,2025-08-11,2025-08-28,delivered,EU-West
+ORD-0307,SUP-003,Adhesive Bandages (Box/100),Consumables,150,3.31,2026-04-07,2026-04-27,delivered,US-West
+ORD-0308,SUP-006,Acetaminophen Tablets (1000ct),Pharma,675,14.19,2025-10-14,,pending,EU-West
+ORD-0309,SUP-017,Blood Pressure Monitors,Equipment,80,62.21,2026-03-20,2026-03-30,delivered,EU-West
+ORD-0310,SUP-018,Blood Pressure Monitors,Equipment,870,83.41,2025-07-12,2025-07-24,delivered,EU-West
+ORD-0311,SUP-007,Adhesive Bandages (Box/100),Consumables,100,3.23,2025-12-24,2026-01-04,delivered,US-East
+ORD-0312,SUP-003,Portable Suction Units,Equipment,50,236.13,2025-10-01,2025-10-30,delivered,US-West
+ORD-0313,SUP-014,Hydrocortisone Cream (1oz),Pharma,495,7.59,2026-01-10,,pending,EU-West
+ORD-0314,SUP-018,Disposable Shoe Covers (Box/50),PPE,845,8.3,2025-08-30,,cancelled,US-West
+ORD-0315,SUP-013,Stethoscopes,Equipment,170,65.03,2025-10-23,2025-11-15,delivered,US-East
+ORD-0316,SUP-015,Syringes 3mL (Box/100),Consumables,930,19.8,2026-03-30,2026-04-08,delivered,EU-West
+ORD-0317,SUP-015,Hydrocortisone Cream (1oz),Pharma,205,6.21,2025-08-27,2025-09-08,delivered,US-East
+ORD-0318,SUP-020,Wound Closure Strips (Box/50),Consumables,30,10.89,2025-08-04,2025-09-19,delivered,US-East
+ORD-0319,SUP-020,Syringes 3mL (Box/100),Consumables,910,25.7,2025-11-03,2025-12-15,delivered,US-East
+ORD-0320,SUP-018,Insulin Vials (10mL),Pharma,975,76.82,2025-07-29,2025-08-14,delivered,US-West
+ORD-0321,SUP-008,Surgical Tape Rolls,Consumables,745,4.91,2025-12-12,2025-12-15,delivered,US-West
+ORD-0322,SUP-017,Amoxicillin Capsules (500ct),Pharma,535,18.91,2025-08-01,2025-08-17,delivered,US-West
+ORD-0323,SUP-018,Portable Suction Units,Equipment,70,441.69,2026-01-12,2026-01-30,delivered,US-Central
+ORD-0324,SUP-005,Epinephrine Auto-Injectors,Pharma,490,58.79,2026-04-02,,shipped,EU-West
+ORD-0325,SUP-008,Epinephrine Auto-Injectors,Pharma,915,55.83,2026-02-23,2026-03-02,delivered,US-East
+ORD-0326,SUP-018,Stethoscopes,Equipment,180,46.36,2025-11-08,2025-11-21,delivered,US-West
+ORD-0327,SUP-015,Hydrocortisone Cream (1oz),Pharma,125,8.29,2025-10-06,2025-10-22,delivered,US-East
+ORD-0328,SUP-020,Sterile Gauze Pads (Box/200),Consumables,60,13.86,2025-10-05,2025-11-26,delivered,US-West
+ORD-0329,SUP-011,Epinephrine Auto-Injectors,Pharma,25,60.89,2025-10-06,,cancelled,US-East
+ORD-0330,SUP-016,Amoxicillin Capsules (500ct),Pharma,900,25.9,2025-10-13,,cancelled,EU-West
+ORD-0331,SUP-018,Acetaminophen Tablets (1000ct),Pharma,1000,11.96,2026-02-24,2026-03-13,delivered,US-Central
+ORD-0332,SUP-017,Portable Suction Units,Equipment,605,179.58,2026-02-26,,cancelled,US-Central
+ORD-0333,SUP-012,Acetaminophen Tablets (1000ct),Pharma,535,8.64,2025-10-22,,pending,US-West
+ORD-0334,SUP-018,Adhesive Bandages (Box/100),Consumables,750,6.6,2025-11-29,,shipped,US-West
+ORD-0335,SUP-008,Digital Thermometers,Equipment,735,40.0,2026-03-13,2026-03-27,delivered,US-Central
+ORD-0336,SUP-016,Surgical Tape Rolls,Consumables,830,7.44,2026-02-21,,cancelled,US-West
+ORD-0337,SUP-012,Safety Goggles,PPE,185,11.76,2026-03-08,,cancelled,US-West
+ORD-0338,SUP-018,Alcohol Prep Pads (Box/200),Consumables,85,7.14,2025-08-08,2025-08-26,delivered,US-East
+ORD-0339,SUP-005,Alcohol Prep Pads (Box/200),Consumables,305,4.41,2025-09-16,,shipped,US-East
+ORD-0340,SUP-015,Hydrocortisone Cream (1oz),Pharma,85,8.94,2026-03-05,,pending,EU-West
+ORD-0341,SUP-018,Otoscopes,Equipment,535,40.95,2026-03-29,2026-04-14,delivered,US-Central
+ORD-0342,SUP-001,Stethoscopes,Equipment,900,62.07,2025-09-30,,cancelled,US-East
+ORD-0343,SUP-017,Disposable Shoe Covers (Box/50),PPE,315,4.96,2026-03-27,2026-04-10,delivered,US-Central
+ORD-0344,SUP-013,Surgical Gowns,PPE,485,11.72,2026-02-21,,cancelled,US-West
+ORD-0345,SUP-008,Epinephrine Auto-Injectors,Pharma,885,107.1,2025-08-11,,pending,US-East
+ORD-0346,SUP-013,Digital Thermometers,Equipment,715,29.28,2025-07-05,,pending,US-West
+ORD-0347,SUP-014,Alcohol Prep Pads (Box/200),Consumables,430,7.4,2025-08-18,,shipped,US-East
+ORD-0348,SUP-019,Portable Suction Units,Equipment,355,163.97,2025-08-08,2025-08-17,delivered,US-Central
+ORD-0349,SUP-002,Safety Goggles,PPE,410,6.13,2025-10-15,,cancelled,US-West
+ORD-0350,SUP-013,Surgical Gowns,PPE,390,6.14,2025-11-01,2025-11-28,delivered,EU-West
+ORD-0351,SUP-011,Digital Thermometers,Equipment,975,37.19,2025-08-10,,pending,US-Central
+ORD-0352,SUP-014,Amoxicillin Capsules (500ct),Pharma,105,19.83,2026-01-20,,pending,US-Central
+ORD-0353,SUP-009,Blood Pressure Monitors,Equipment,635,48.69,2026-04-10,2026-05-03,delivered,EU-West
+ORD-0354,SUP-019,Syringes 3mL (Box/100),Consumables,495,11.54,2025-11-29,2025-11-30,delivered,US-West
+ORD-0355,SUP-009,Disposable Shoe Covers (Box/50),PPE,495,7.56,2025-09-17,2025-10-01,delivered,EU-West
+ORD-0356,SUP-003,N95 Respirator Masks,PPE,400,4.95,2025-11-16,,shipped,US-East
+ORD-0357,SUP-006,Pulse Oximeters,Equipment,580,45.06,2026-03-20,,shipped,EU-West
+ORD-0358,SUP-003,Hydrocortisone Cream (1oz),Pharma,715,4.74,2025-12-14,,pending,EU-West
+ORD-0359,SUP-014,Digital Thermometers,Equipment,115,36.75,2026-04-13,2026-04-18,delivered,US-West
+ORD-0360,SUP-013,Safety Goggles,PPE,185,8.15,2025-11-15,,shipped,EU-West
+ORD-0361,SUP-006,Pulse Oximeters,Equipment,360,38.95,2026-03-05,2026-03-15,delivered,US-East
+ORD-0362,SUP-016,Sterile Gauze Pads (Box/200),Consumables,795,7.76,2025-08-24,2025-10-01,delivered,US-West
+ORD-0363,SUP-011,Sterile Gauze Pads (Box/200),Consumables,495,13.24,2025-12-16,2026-01-23,delivered,EU-West
+ORD-0364,SUP-020,Disposable Shoe Covers (Box/50),PPE,390,5.6,2025-10-11,2025-11-25,delivered,EU-West
+ORD-0365,SUP-011,Epinephrine Auto-Injectors,Pharma,950,97.12,2026-03-09,2026-04-07,delivered,US-West
+ORD-0366,SUP-013,Hydrocortisone Cream (1oz),Pharma,155,11.46,2025-10-11,2025-11-07,delivered,US-West
+ORD-0367,SUP-001,Surgical Tape Rolls,Consumables,600,8.66,2025-10-16,2025-11-02,delivered,EU-West
+ORD-0368,SUP-003,Pulse Oximeters,Equipment,870,42.47,2025-12-03,2025-12-23,delivered,US-West
+ORD-0369,SUP-014,Digital Thermometers,Equipment,100,28.47,2026-03-03,2026-03-19,delivered,EU-West
+ORD-0370,SUP-014,Otoscopes,Equipment,55,103.26,2026-01-01,,shipped,US-East
+ORD-0371,SUP-008,Syringes 3mL (Box/100),Consumables,860,16.39,2025-07-23,,cancelled,EU-West
+ORD-0372,SUP-011,Pulse Oximeters,Equipment,145,20.47,2025-11-10,2025-12-13,delivered,US-West
+ORD-0373,SUP-018,Adhesive Bandages (Box/100),Consumables,890,5.88,2026-02-14,2026-03-10,delivered,US-Central
+ORD-0374,SUP-019,Cotton Swabs (Box/500),Consumables,650,2.6,2025-07-13,,shipped,EU-West
+ORD-0375,SUP-014,Surgical Gowns,PPE,155,10.82,2025-09-11,2025-09-21,delivered,US-Central
+ORD-0376,SUP-007,Stethoscopes,Equipment,625,44.16,2025-08-19,2025-09-06,delivered,EU-West
+ORD-0377,SUP-011,Surgical Gowns,PPE,390,5.31,2025-08-28,,cancelled,US-East
+ORD-0378,SUP-004,Syringes 3mL (Box/100),Consumables,220,26.74,2025-11-02,2025-11-09,delivered,US-West
+ORD-0379,SUP-018,Pulse Oximeters,Equipment,600,30.43,2026-01-24,,shipped,US-West
+ORD-0380,SUP-014,Digital Thermometers,Equipment,45,37.12,2025-10-10,2025-10-19,delivered,EU-West
+ORD-0381,SUP-001,Cotton Swabs (Box/500),Consumables,280,2.82,2025-08-02,2025-08-14,delivered,US-East
+ORD-0382,SUP-006,Hydrocortisone Cream (1oz),Pharma,425,5.58,2025-08-28,2025-09-11,delivered,US-Central
+ORD-0383,SUP-017,Alcohol Prep Pads (Box/200),Consumables,410,7.58,2026-01-17,2026-02-09,delivered,US-East
+ORD-0384,SUP-015,Sterile Gauze Pads (Box/200),Consumables,230,13.32,2025-11-30,2025-12-11,delivered,US-East
+ORD-0385,SUP-004,Amoxicillin Capsules (500ct),Pharma,400,14.69,2026-01-08,2026-01-16,delivered,US-West
+ORD-0386,SUP-020,Disposable Shoe Covers (Box/50),PPE,745,5.92,2025-10-04,,cancelled,EU-West
+ORD-0387,SUP-006,Otoscopes,Equipment,220,79.17,2025-09-10,2025-09-24,delivered,US-West
+ORD-0388,SUP-020,Nitrile Exam Gloves (Box/100),PPE,465,14.66,2026-03-06,2026-04-20,delivered,US-West
+ORD-0389,SUP-018,Stethoscopes,Equipment,845,52.22,2026-03-09,2026-03-28,delivered,EU-West
+ORD-0390,SUP-016,Safety Goggles,PPE,115,10.52,2025-10-21,,pending,US-Central
+ORD-0391,SUP-008,Otoscopes,Equipment,375,53.46,2026-02-20,2026-02-22,delivered,EU-West
+ORD-0392,SUP-019,Face Shields,PPE,350,6.1,2026-01-04,2026-01-11,delivered,US-East
+ORD-0393,SUP-018,Insulin Vials (10mL),Pharma,550,31.14,2025-11-04,2025-11-16,delivered,US-Central
+ORD-0394,SUP-015,Saline Solution IV (1L),Pharma,455,7.38,2025-08-14,2025-08-21,delivered,EU-West
+ORD-0395,SUP-008,Insulin Vials (10mL),Pharma,950,60.28,2025-12-27,,shipped,EU-West
+ORD-0396,SUP-005,Insulin Vials (10mL),Pharma,270,73.33,2026-04-18,2026-05-12,delivered,US-Central
+ORD-0397,SUP-018,Safety Goggles,PPE,420,13.83,2025-11-27,2025-12-22,delivered,US-Central
+ORD-0398,SUP-017,Syringes 3mL (Box/100),Consumables,130,12.44,2026-01-27,,cancelled,US-East
+ORD-0399,SUP-005,Cotton Swabs (Box/500),Consumables,175,3.0,2025-12-12,2026-01-06,delivered,US-West
+ORD-0400,SUP-013,Portable Suction Units,Equipment,190,323.23,2025-11-15,2025-12-05,delivered,EU-West
+ORD-0401,SUP-003,Digital Thermometers,Equipment,665,37.49,2026-01-05,,cancelled,EU-West
+ORD-0402,SUP-011,Adhesive Bandages (Box/100),Consumables,10,7.34,2025-08-17,,cancelled,EU-West
+ORD-0403,SUP-012,Surgical Gowns,PPE,690,7.78,2026-02-05,2026-02-18,delivered,US-West
+ORD-0404,SUP-010,Acetaminophen Tablets (1000ct),Pharma,710,16.09,2026-04-16,2026-05-01,delivered,EU-West
+ORD-0405,SUP-002,Nitrile Exam Gloves (Box/100),PPE,135,12.38,2026-02-21,,shipped,US-East
+ORD-0406,SUP-006,Blood Pressure Monitors,Equipment,590,35.04,2026-02-05,,cancelled,US-West
+ORD-0407,SUP-005,Alcohol Prep Pads (Box/200),Consumables,395,4.95,2025-11-18,2025-12-07,delivered,US-East
+ORD-0408,SUP-003,Hydrocortisone Cream (1oz),Pharma,860,11.23,2025-09-23,2025-10-15,delivered,US-East
+ORD-0409,SUP-008,Pulse Oximeters,Equipment,845,24.1,2025-08-18,,shipped,US-East
+ORD-0410,SUP-003,Disposable Shoe Covers (Box/50),PPE,765,5.13,2026-02-13,,pending,US-East
+ORD-0411,SUP-011,Face Shields,PPE,550,5.78,2026-03-02,2026-03-28,delivered,US-East
+ORD-0412,SUP-004,Face Shields,PPE,410,4.47,2025-12-01,2025-12-16,delivered,US-West
+ORD-0413,SUP-005,Alcohol Prep Pads (Box/200),Consumables,875,4.86,2026-03-29,2026-04-15,delivered,US-East
+ORD-0414,SUP-015,Hydrocortisone Cream (1oz),Pharma,930,5.7,2025-09-16,2025-09-29,delivered,EU-West
+ORD-0415,SUP-007,Surgical Gowns,PPE,135,5.98,2025-09-02,2025-09-19,delivered,EU-West
+ORD-0416,SUP-011,Disposable Shoe Covers (Box/50),PPE,325,5.38,2025-08-13,2025-09-16,delivered,US-West
+ORD-0417,SUP-020,Epinephrine Auto-Injectors,Pharma,890,47.01,2025-12-02,2026-01-18,delivered,US-West
+ORD-0418,SUP-007,Surgical Tape Rolls,Consumables,510,4.77,2025-07-28,2025-08-09,delivered,US-West
+ORD-0419,SUP-008,Portable Suction Units,Equipment,825,328.18,2026-03-28,,cancelled,US-East
+ORD-0420,SUP-011,Disposable Shoe Covers (Box/50),PPE,505,8.3,2026-04-18,2026-05-23,delivered,EU-West
+ORD-0421,SUP-006,Wound Closure Strips (Box/50),Consumables,610,19.45,2025-08-07,2025-08-14,delivered,US-East
+ORD-0422,SUP-009,Insulin Vials (10mL),Pharma,60,80.35,2026-01-20,2026-02-10,delivered,US-Central
+ORD-0423,SUP-014,Pulse Oximeters,Equipment,905,38.1,2026-04-01,2026-04-08,delivered,US-West
+ORD-0424,SUP-003,Stethoscopes,Equipment,270,78.59,2025-09-18,2025-10-16,delivered,US-Central
+ORD-0425,SUP-003,Epinephrine Auto-Injectors,Pharma,900,77.81,2025-10-31,,shipped,US-East
+ORD-0426,SUP-014,Face Shields,PPE,590,5.45,2025-07-29,2025-08-11,delivered,US-Central
+ORD-0427,SUP-006,Face Shields,PPE,25,5.83,2025-07-06,2025-07-18,delivered,US-West
+ORD-0428,SUP-017,Stethoscopes,Equipment,930,39.26,2026-01-07,2026-01-30,delivered,US-West
+ORD-0429,SUP-009,Surgical Tape Rolls,Consumables,160,7.63,2025-07-16,2025-08-02,delivered,US-Central
+ORD-0430,SUP-017,Surgical Gowns,PPE,345,9.99,2026-04-22,2026-05-10,delivered,US-East
+ORD-0431,SUP-012,Nitrile Exam Gloves (Box/100),PPE,645,14.02,2025-09-24,,shipped,US-Central
+ORD-0432,SUP-004,Adhesive Bandages (Box/100),Consumables,870,6.61,2025-10-25,,pending,US-East
+ORD-0433,SUP-001,Amoxicillin Capsules (500ct),Pharma,65,22.85,2026-01-13,,shipped,US-West
+ORD-0434,SUP-002,Otoscopes,Equipment,920,99.25,2026-01-31,2026-02-15,delivered,US-West
+ORD-0435,SUP-011,Saline Solution IV (1L),Pharma,105,6.07,2025-08-31,,shipped,US-East
+ORD-0436,SUP-017,Nitrile Exam Gloves (Box/100),PPE,520,8.48,2026-02-24,2026-03-10,delivered,US-Central
+ORD-0437,SUP-011,Surgical Gowns,PPE,715,8.2,2026-01-05,2026-02-11,delivered,US-West
+ORD-0438,SUP-010,Surgical Tape Rolls,Consumables,805,4.46,2026-01-05,,cancelled,EU-West
+ORD-0439,SUP-007,Surgical Tape Rolls,Consumables,705,7.56,2025-11-03,,pending,US-West
+ORD-0440,SUP-014,N95 Respirator Masks,PPE,305,5.48,2025-07-05,,pending,US-Central
+ORD-0441,SUP-013,Surgical Tape Rolls,Consumables,940,4.85,2025-10-14,2025-11-02,delivered,US-West
+ORD-0442,SUP-005,Cotton Swabs (Box/500),Consumables,365,2.37,2025-10-27,2025-11-16,delivered,EU-West
+ORD-0443,SUP-015,Surgical Tape Rolls,Consumables,115,6.48,2026-03-16,2026-03-28,delivered,US-West
+ORD-0444,SUP-003,Adhesive Bandages (Box/100),Consumables,735,3.31,2025-09-05,2025-10-06,delivered,US-West
+ORD-0445,SUP-011,Digital Thermometers,Equipment,905,39.96,2025-12-15,2026-01-12,delivered,US-Central
+ORD-0446,SUP-003,Insulin Vials (10mL),Pharma,180,71.8,2026-04-26,,shipped,US-East
+ORD-0447,SUP-006,Blood Pressure Monitors,Equipment,605,53.84,2025-08-31,,cancelled,US-Central
+ORD-0448,SUP-007,Blood Pressure Monitors,Equipment,400,62.8,2025-08-31,,shipped,US-East
+ORD-0449,SUP-010,Cotton Swabs (Box/500),Consumables,900,4.41,2025-10-19,,shipped,US-Central
+ORD-0450,SUP-008,Hydrocortisone Cream (1oz),Pharma,515,8.11,2025-12-01,2025-12-04,delivered,US-Central
+ORD-0451,SUP-001,Digital Thermometers,Equipment,585,31.68,2026-04-08,,pending,US-West
+ORD-0452,SUP-004,Disposable Shoe Covers (Box/50),PPE,165,4.06,2025-10-22,,shipped,US-West
+ORD-0453,SUP-013,Hydrocortisone Cream (1oz),Pharma,885,9.04,2025-08-13,,cancelled,US-Central
+ORD-0454,SUP-003,N95 Respirator Masks,PPE,90,3.59,2026-02-13,,pending,US-West
+ORD-0455,SUP-011,Face Shields,PPE,60,6.77,2025-07-26,,cancelled,US-West
+ORD-0456,SUP-014,Surgical Tape Rolls,Consumables,515,5.98,2026-01-12,,shipped,EU-West
+ORD-0457,SUP-007,Safety Goggles,PPE,360,8.24,2025-09-15,2025-10-05,delivered,US-East
+ORD-0458,SUP-008,Alcohol Prep Pads (Box/200),Consumables,385,6.99,2026-04-08,,pending,EU-West
+ORD-0459,SUP-009,Digital Thermometers,Equipment,185,27.58,2026-03-27,2026-04-21,delivered,US-West
+ORD-0460,SUP-018,N95 Respirator Masks,PPE,495,6.8,2025-12-31,2026-01-19,delivered,EU-West
+ORD-0461,SUP-012,Adhesive Bandages (Box/100),Consumables,650,4.61,2025-11-16,,pending,US-West
+ORD-0462,SUP-020,Amoxicillin Capsules (500ct),Pharma,45,32.6,2025-11-21,,cancelled,US-East
+ORD-0463,SUP-016,Stethoscopes,Equipment,465,67.18,2025-10-28,,shipped,US-West
+ORD-0464,SUP-008,Saline Solution IV (1L),Pharma,690,7.17,2025-07-29,2025-08-11,delivered,US-West
+ORD-0465,SUP-013,Hydrocortisone Cream (1oz),Pharma,230,5.41,2026-04-30,2026-05-30,delivered,US-Central
+ORD-0466,SUP-012,Adhesive Bandages (Box/100),Consumables,45,6.52,2025-12-28,2026-01-08,delivered,US-West
+ORD-0467,SUP-016,Otoscopes,Equipment,405,54.04,2025-07-20,,pending,US-East
+ORD-0468,SUP-020,Amoxicillin Capsules (500ct),Pharma,35,24.11,2025-07-01,,cancelled,US-Central
+ORD-0469,SUP-007,Disposable Shoe Covers (Box/50),PPE,445,7.58,2025-12-13,,pending,US-East
+ORD-0470,SUP-019,Cotton Swabs (Box/500),Consumables,190,5.1,2026-03-27,,cancelled,US-Central
+ORD-0471,SUP-012,Cotton Swabs (Box/500),Consumables,855,3.58,2025-08-21,2025-08-31,delivered,US-Central
+ORD-0472,SUP-006,Surgical Tape Rolls,Consumables,565,7.75,2026-03-07,,shipped,US-Central
+ORD-0473,SUP-018,Cotton Swabs (Box/500),Consumables,795,5.15,2025-10-23,2025-11-15,delivered,US-West
+ORD-0474,SUP-010,Disposable Shoe Covers (Box/50),PPE,235,7.64,2026-04-20,2026-05-07,delivered,EU-West
+ORD-0475,SUP-019,Nitrile Exam Gloves (Box/100),PPE,240,12.22,2025-10-22,,cancelled,US-East
+ORD-0476,SUP-005,Acetaminophen Tablets (1000ct),Pharma,960,9.09,2025-12-25,,shipped,US-Central
+ORD-0477,SUP-003,Cotton Swabs (Box/500),Consumables,865,4.56,2025-12-19,,pending,EU-West
+ORD-0478,SUP-007,Amoxicillin Capsules (500ct),Pharma,895,13.56,2025-11-09,2025-11-20,delivered,US-East
+ORD-0479,SUP-013,Blood Pressure Monitors,Equipment,945,60.18,2025-09-24,2025-10-19,delivered,EU-West
+ORD-0480,SUP-012,Otoscopes,Equipment,490,48.11,2026-03-03,,shipped,US-West
+ORD-0481,SUP-003,Nitrile Exam Gloves (Box/100),PPE,385,8.14,2025-11-11,,pending,US-East
+ORD-0482,SUP-006,Digital Thermometers,Equipment,215,36.96,2026-04-07,2026-04-23,delivered,US-East
+ORD-0483,SUP-016,Cotton Swabs (Box/500),Consumables,45,3.73,2025-09-23,,shipped,EU-West
+ORD-0484,SUP-004,Acetaminophen Tablets (1000ct),Pharma,270,21.64,2026-01-26,2026-02-01,delivered,US-Central
+ORD-0485,SUP-008,Face Shields,PPE,70,4.57,2026-04-08,,shipped,EU-West
+ORD-0486,SUP-012,N95 Respirator Masks,PPE,555,2.98,2026-03-03,,pending,US-West
+ORD-0487,SUP-007,Safety Goggles,PPE,825,8.33,2025-08-11,2025-08-26,delivered,EU-West
+ORD-0488,SUP-013,Portable Suction Units,Equipment,635,418.46,2025-11-13,2025-12-08,delivered,US-East
+ORD-0489,SUP-006,Hydrocortisone Cream (1oz),Pharma,495,6.96,2026-02-14,2026-02-28,delivered,US-East
+ORD-0490,SUP-009,Amoxicillin Capsules (500ct),Pharma,350,24.98,2025-09-16,,pending,US-East
+ORD-0491,SUP-012,Otoscopes,Equipment,535,117.66,2026-04-28,2026-05-19,delivered,US-West
+ORD-0492,SUP-013,Stethoscopes,Equipment,545,78.11,2026-03-01,2026-03-21,delivered,US-West
+ORD-0493,SUP-013,Cotton Swabs (Box/500),Consumables,50,4.01,2026-03-22,,shipped,US-West
+ORD-0494,SUP-015,Safety Goggles,PPE,220,13.78,2025-10-07,,pending,US-West
+ORD-0495,SUP-003,Syringes 3mL (Box/100),Consumables,565,13.63,2025-09-14,2025-10-13,delivered,US-Central
+ORD-0496,SUP-003,Surgical Gowns,PPE,505,8.89,2026-04-09,2026-05-05,delivered,US-Central
+ORD-0497,SUP-015,N95 Respirator Masks,PPE,905,5.93,2026-03-25,,shipped,EU-West
+ORD-0498,SUP-005,Disposable Shoe Covers (Box/50),PPE,735,6.94,2025-08-21,2025-09-06,delivered,US-East
+ORD-0499,SUP-010,Otoscopes,Equipment,450,110.23,2025-11-13,2025-11-27,delivered,EU-West
+ORD-0500,SUP-020,Portable Suction Units,Equipment,55,201.66,2026-01-23,2026-03-13,delivered,US-West

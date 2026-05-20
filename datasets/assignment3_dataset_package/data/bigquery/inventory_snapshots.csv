@@ -1,0 +1,1201 @@
+snapshot_date,product_name,warehouse_region,quantity_on_hand,reorder_point,days_of_supply
+2026-03-01,Cotton Swabs (Box/500),US-East,3913,260,51.5
+2026-03-02,Cotton Swabs (Box/500),US-East,3956,260,232.7
+2026-03-03,Cotton Swabs (Box/500),US-East,3906,260,217.0
+2026-03-04,Cotton Swabs (Box/500),US-East,3837,260,62.9
+2026-03-05,Cotton Swabs (Box/500),US-East,3794,260,291.8
+2026-03-06,Cotton Swabs (Box/500),US-East,3828,260,109.4
+2026-03-07,Cotton Swabs (Box/500),US-East,3932,260,95.9
+2026-03-08,Cotton Swabs (Box/500),US-East,3732,260,233.2
+2026-03-09,Cotton Swabs (Box/500),US-East,3850,260,110.0
+2026-03-10,Cotton Swabs (Box/500),US-East,3752,260,54.4
+2026-03-11,Cotton Swabs (Box/500),US-East,3755,260,150.2
+2026-03-12,Cotton Swabs (Box/500),US-East,3893,260,97.3
+2026-03-13,Cotton Swabs (Box/500),US-East,3668,260,54.7
+2026-03-14,Cotton Swabs (Box/500),US-East,3623,260,45.3
+2026-03-15,Cotton Swabs (Box/500),US-East,3681,260,122.7
+2026-03-16,Cotton Swabs (Box/500),US-East,3773,260,179.7
+2026-03-17,Cotton Swabs (Box/500),US-East,3817,260,64.7
+2026-03-18,Cotton Swabs (Box/500),US-East,3697,260,99.9
+2026-03-19,Cotton Swabs (Box/500),US-East,3754,260,98.8
+2026-03-20,Cotton Swabs (Box/500),US-East,3738,260,85.0
+2026-03-21,Cotton Swabs (Box/500),US-East,3584,260,47.8
+2026-03-22,Cotton Swabs (Box/500),US-East,3758,260,53.7
+2026-03-23,Cotton Swabs (Box/500),US-East,3779,260,118.1
+2026-03-24,Cotton Swabs (Box/500),US-East,3822,260,100.6
+2026-03-25,Cotton Swabs (Box/500),US-East,3317,260,67.7
+2026-03-26,Cotton Swabs (Box/500),US-East,3327,260,73.9
+2026-03-27,Cotton Swabs (Box/500),US-East,3473,260,64.3
+2026-03-28,Cotton Swabs (Box/500),US-East,3568,260,96.4
+2026-03-29,Cotton Swabs (Box/500),US-East,3528,260,46.4
+2026-03-30,Cotton Swabs (Box/500),US-East,3270,260,54.5
+2026-03-31,Cotton Swabs (Box/500),US-East,3695,260,369.5
+2026-04-01,Cotton Swabs (Box/500),US-East,3430,260,74.6
+2026-04-02,Cotton Swabs (Box/500),US-East,3643,260,51.3
+2026-04-03,Cotton Swabs (Box/500),US-East,3374,260,75.0
+2026-04-04,Cotton Swabs (Box/500),US-East,3432,260,76.3
+2026-04-05,Cotton Swabs (Box/500),US-East,3019,260,62.9
+2026-04-06,Cotton Swabs (Box/500),US-East,3561,260,46.9
+2026-04-07,Cotton Swabs (Box/500),US-East,3514,260,206.7
+2026-04-08,Cotton Swabs (Box/500),US-East,3052,260,50.0
+2026-04-09,Cotton Swabs (Box/500),US-East,3360,260,124.4
+2026-04-10,Cotton Swabs (Box/500),US-East,3753,260,51.4
+2026-04-11,Cotton Swabs (Box/500),US-East,3365,260,53.4
+2026-04-12,Cotton Swabs (Box/500),US-East,3198,260,228.4
+2026-04-13,Cotton Swabs (Box/500),US-East,2946,260,86.6
+2026-04-14,Cotton Swabs (Box/500),US-East,3376,260,43.3
+2026-04-15,Cotton Swabs (Box/500),US-East,3042,260,55.3
+2026-04-16,Cotton Swabs (Box/500),US-East,3281,260,105.8
+2026-04-17,Cotton Swabs (Box/500),US-East,2934,260,88.9
+2026-04-18,Cotton Swabs (Box/500),US-East,3514,260,50.2
+2026-04-19,Cotton Swabs (Box/500),US-East,3240,260,98.2
+2026-04-20,Cotton Swabs (Box/500),US-East,3198,260,152.3
+2026-04-21,Cotton Swabs (Box/500),US-East,3073,260,80.9
+2026-04-22,Cotton Swabs (Box/500),US-East,3228,260,51.2
+2026-04-23,Cotton Swabs (Box/500),US-East,3166,260,55.5
+2026-04-24,Cotton Swabs (Box/500),US-East,2652,260,56.4
+2026-04-25,Cotton Swabs (Box/500),US-East,3480,260,49.7
+2026-04-26,Cotton Swabs (Box/500),US-East,2467,260,129.8
+2026-04-27,Cotton Swabs (Box/500),US-East,3294,260,44.5
+2026-04-28,Cotton Swabs (Box/500),US-East,2890,260,37.5
+2026-04-29,Cotton Swabs (Box/500),US-East,2837,260,177.3
+2026-03-01,Cotton Swabs (Box/500),US-West,3705,268,105.9
+2026-03-02,Cotton Swabs (Box/500),US-West,3711,268,54.6
+2026-03-03,Cotton Swabs (Box/500),US-West,3674,268,111.3
+2026-03-04,Cotton Swabs (Box/500),US-West,3764,268,52.3
+2026-03-05,Cotton Swabs (Box/500),US-West,3628,268,113.4
+2026-03-06,Cotton Swabs (Box/500),US-West,3601,268,211.8
+2026-03-07,Cotton Swabs (Box/500),US-West,3572,268,79.4
+2026-03-08,Cotton Swabs (Box/500),US-West,3642,268,121.4
+2026-03-09,Cotton Swabs (Box/500),US-West,3692,268,142.0
+2026-03-10,Cotton Swabs (Box/500),US-West,3602,268,56.3
+2026-03-11,Cotton Swabs (Box/500),US-West,3557,268,50.1
+2026-03-12,Cotton Swabs (Box/500),US-West,3680,268,262.9
+2026-03-13,Cotton Swabs (Box/500),US-West,3622,268,63.5
+2026-03-14,Cotton Swabs (Box/500),US-West,3492,268,45.4
+2026-03-15,Cotton Swabs (Box/500),US-West,3640,268,364.0
+2026-03-16,Cotton Swabs (Box/500),US-West,3586,268,94.4
+2026-03-17,Cotton Swabs (Box/500),US-West,3518,268,71.8
+2026-03-18,Cotton Swabs (Box/500),US-West,3566,268,60.4
+2026-03-19,Cotton Swabs (Box/500),US-West,3336,268,68.1
+2026-03-20,Cotton Swabs (Box/500),US-West,3574,268,238.3
+2026-03-21,Cotton Swabs (Box/500),US-West,3444,268,50.6
+2026-03-22,Cotton Swabs (Box/500),US-West,3338,268,43.4
+2026-03-23,Cotton Swabs (Box/500),US-West,3333,268,123.4
+2026-03-24,Cotton Swabs (Box/500),US-West,3269,268,59.4
+2026-03-25,Cotton Swabs (Box/500),US-West,3518,268,113.5
+2026-03-26,Cotton Swabs (Box/500),US-West,3377,268,281.4
+2026-03-27,Cotton Swabs (Box/500),US-West,3403,268,130.9
+2026-03-28,Cotton Swabs (Box/500),US-West,3578,268,48.4
+2026-03-29,Cotton Swabs (Box/500),US-West,3483,268,62.2
+2026-03-30,Cotton Swabs (Box/500),US-West,3052,268,218.0
+2026-03-31,Cotton Swabs (Box/500),US-West,2984,268,71.0
+2026-04-01,Cotton Swabs (Box/500),US-West,3102,268,193.9
+2026-04-02,Cotton Swabs (Box/500),US-West,3570,268,155.2
+2026-04-03,Cotton Swabs (Box/500),US-West,3604,268,225.2
+2026-04-04,Cotton Swabs (Box/500),US-West,3502,268,55.6
+2026-04-05,Cotton Swabs (Box/500),US-West,3147,268,125.9
+2026-04-06,Cotton Swabs (Box/500),US-West,3288,268,47.0
+2026-04-07,Cotton Swabs (Box/500),US-West,3442,268,95.6
+2026-04-08,Cotton Swabs (Box/500),US-West,2824,268,256.7
+2026-04-09,Cotton Swabs (Box/500),US-West,3022,268,137.4
+2026-04-10,Cotton Swabs (Box/500),US-West,2930,268,66.6
+2026-04-11,Cotton Swabs (Box/500),US-West,2781,268,103.0
+2026-04-12,Cotton Swabs (Box/500),US-West,3403,268,45.4
+2026-04-13,Cotton Swabs (Box/500),US-West,2746,268,109.8
+2026-04-14,Cotton Swabs (Box/500),US-West,3370,268,146.5
+2026-04-15,Cotton Swabs (Box/500),US-West,3254,268,93.0
+2026-04-16,Cotton Swabs (Box/500),US-West,3187,268,41.9
+2026-04-17,Cotton Swabs (Box/500),US-West,2959,268,47.7
+2026-04-18,Cotton Swabs (Box/500),US-West,3243,268,216.2
+2026-04-19,Cotton Swabs (Box/500),US-West,2776,268,77.1
+2026-04-20,Cotton Swabs (Box/500),US-West,2774,268,53.3
+2026-04-21,Cotton Swabs (Box/500),US-West,3461,268,314.6
+2026-04-22,Cotton Swabs (Box/500),US-West,3407,268,142.0
+2026-04-23,Cotton Swabs (Box/500),US-West,2573,268,35.2
+2026-04-24,Cotton Swabs (Box/500),US-West,3327,268,44.4
+2026-04-25,Cotton Swabs (Box/500),US-West,3255,268,77.5
+2026-04-26,Cotton Swabs (Box/500),US-West,3096,268,45.5
+2026-04-27,Cotton Swabs (Box/500),US-West,2982,268,43.2
+2026-04-28,Cotton Swabs (Box/500),US-West,3228,268,100.9
+2026-04-29,Cotton Swabs (Box/500),US-West,3443,268,73.3
+2026-03-01,Digital Thermometers,US-Central,1681,255,26.3
+2026-03-02,Digital Thermometers,US-Central,1681,255,76.4
+2026-03-03,Digital Thermometers,US-Central,1691,255,153.7
+2026-03-04,Digital Thermometers,US-Central,1677,255,54.1
+2026-03-05,Digital Thermometers,US-Central,1573,255,23.8
+2026-03-06,Digital Thermometers,US-Central,1609,255,76.6
+2026-03-07,Digital Thermometers,US-Central,1552,255,47.0
+2026-03-08,Digital Thermometers,US-Central,1490,255,24.4
+2026-03-09,Digital Thermometers,US-Central,1549,255,26.3
+2026-03-10,Digital Thermometers,US-Central,1503,255,23.9
+2026-03-11,Digital Thermometers,US-Central,1578,255,65.8
+2026-03-12,Digital Thermometers,US-Central,1545,255,51.5
+2026-03-13,Digital Thermometers,US-Central,1392,255,19.6
+2026-03-14,Digital Thermometers,US-Central,1398,255,21.2
+2026-03-15,Digital Thermometers,US-Central,1282,255,22.1
+2026-03-16,Digital Thermometers,US-Central,1454,255,111.8
+2026-03-17,Digital Thermometers,US-Central,1561,255,22.0
+2026-03-18,Digital Thermometers,US-Central,1372,255,57.2
+2026-03-19,Digital Thermometers,US-Central,1384,255,21.0
+2026-03-20,Digital Thermometers,US-Central,1467,255,34.1
+2026-03-21,Digital Thermometers,US-Central,1378,255,125.3
+2026-03-22,Digital Thermometers,US-Central,1244,255,32.7
+2026-03-23,Digital Thermometers,US-Central,1350,255,17.8
+2026-03-24,Digital Thermometers,US-Central,1109,255,50.4
+2026-03-25,Digital Thermometers,US-Central,1362,255,19.2
+2026-03-26,Digital Thermometers,US-Central,1014,255,17.2
+2026-03-27,Digital Thermometers,US-Central,1042,255,65.1
+2026-03-28,Digital Thermometers,US-Central,921,255,30.7
+2026-03-29,Digital Thermometers,US-Central,1099,255,15.1
+2026-03-30,Digital Thermometers,US-Central,1416,255,74.5
+2026-03-31,Digital Thermometers,US-Central,1091,255,21.4
+2026-04-01,Digital Thermometers,US-Central,1160,255,25.8
+2026-04-02,Digital Thermometers,US-Central,929,255,24.4
+2026-04-03,Digital Thermometers,US-Central,840,255,14.5
+2026-04-04,Digital Thermometers,US-Central,1238,255,61.9
+2026-04-05,Digital Thermometers,US-Central,988,255,14.7
+2026-04-06,Digital Thermometers,US-Central,886,255,13.2
+2026-04-07,Digital Thermometers,US-Central,1339,255,18.3
+2026-04-08,Digital Thermometers,US-Central,740,255,61.7
+2026-04-09,Digital Thermometers,US-Central,945,255,15.2
+2026-04-10,Digital Thermometers,US-Central,719,255,9.0
+2026-04-11,Digital Thermometers,US-Central,1308,255,27.2
+2026-04-12,Digital Thermometers,US-Central,826,255,22.9
+2026-04-13,Digital Thermometers,US-Central,861,255,16.2
+2026-04-14,Digital Thermometers,US-Central,1377,255,36.2
+2026-04-15,Digital Thermometers,US-Central,848,255,16.3
+2026-04-16,Digital Thermometers,US-Central,562,255,8.0
+2026-04-17,Digital Thermometers,US-Central,934,255,13.9
+2026-04-18,Digital Thermometers,US-Central,1225,255,32.2
+2026-04-19,Digital Thermometers,US-Central,860,255,15.6
+2026-04-20,Digital Thermometers,US-Central,451,255,9.6
+2026-04-21,Digital Thermometers,US-Central,594,255,10.4
+2026-04-22,Digital Thermometers,US-Central,1268,255,84.5
+2026-04-23,Digital Thermometers,US-Central,1179,255,16.2
+2026-04-24,Digital Thermometers,US-Central,640,255,27.8
+2026-04-25,Digital Thermometers,US-Central,307,255,8.8
+2026-04-26,Digital Thermometers,US-Central,1171,255,19.5
+2026-04-27,Digital Thermometers,US-Central,539,255,15.9
+2026-04-28,Digital Thermometers,US-Central,816,255,35.5
+2026-04-29,Digital Thermometers,US-Central,629,255,41.9
+2026-03-01,Digital Thermometers,US-West,4022,212,160.9
+2026-03-02,Digital Thermometers,US-West,3994,212,58.7
+2026-03-03,Digital Thermometers,US-West,3953,212,53.4
+2026-03-04,Digital Thermometers,US-West,3872,212,387.2
+2026-03-05,Digital Thermometers,US-West,3958,212,49.5
+2026-03-06,Digital Thermometers,US-West,3944,212,55.5
+2026-03-07,Digital Thermometers,US-West,3907,212,122.1
+2026-03-08,Digital Thermometers,US-West,3842,212,120.1
+2026-03-09,Digital Thermometers,US-West,3936,212,171.1
+2026-03-10,Digital Thermometers,US-West,3748,212,73.5
+2026-03-11,Digital Thermometers,US-West,3809,212,60.5
+2026-03-12,Digital Thermometers,US-West,3860,212,85.8
+2026-03-13,Digital Thermometers,US-West,3785,212,80.5
+2026-03-14,Digital Thermometers,US-West,3855,212,142.8
+2026-03-15,Digital Thermometers,US-West,3631,212,48.4
+2026-03-16,Digital Thermometers,US-West,3623,212,72.5
+2026-03-17,Digital Thermometers,US-West,3654,212,98.8
+2026-03-18,Digital Thermometers,US-West,3753,212,79.9
+2026-03-19,Digital Thermometers,US-West,3714,212,142.8
+2026-03-20,Digital Thermometers,US-West,3530,212,110.3
+2026-03-21,Digital Thermometers,US-West,3539,212,69.4
+2026-03-22,Digital Thermometers,US-West,3837,212,69.8
+2026-03-23,Digital Thermometers,US-West,3546,212,56.3
+2026-03-24,Digital Thermometers,US-West,3495,212,76.0
+2026-03-25,Digital Thermometers,US-West,3595,212,326.8
+2026-03-26,Digital Thermometers,US-West,3781,212,290.8
+2026-03-27,Digital Thermometers,US-West,3729,212,233.1
+2026-03-28,Digital Thermometers,US-West,3838,212,109.7
+2026-03-29,Digital Thermometers,US-West,3669,212,79.8
+2026-03-30,Digital Thermometers,US-West,3625,212,129.5
+2026-03-31,Digital Thermometers,US-West,3842,212,81.7
+2026-04-01,Digital Thermometers,US-West,3259,212,232.8
+2026-04-02,Digital Thermometers,US-West,3352,212,145.7
+2026-04-03,Digital Thermometers,US-West,3267,212,86.0
+2026-04-04,Digital Thermometers,US-West,3160,212,53.6
+2026-04-05,Digital Thermometers,US-West,3210,212,69.8
+2026-04-06,Digital Thermometers,US-West,3787,212,65.3
+2026-04-07,Digital Thermometers,US-West,3298,212,66.0
+2026-04-08,Digital Thermometers,US-West,3757,212,341.5
+2026-04-09,Digital Thermometers,US-West,3503,212,100.1
+2026-04-10,Digital Thermometers,US-West,3234,212,85.1
+2026-04-11,Digital Thermometers,US-West,3006,212,52.7
+2026-04-12,Digital Thermometers,US-West,3045,212,38.5
+2026-04-13,Digital Thermometers,US-West,2977,212,85.1
+2026-04-14,Digital Thermometers,US-West,3530,212,75.1
+2026-04-15,Digital Thermometers,US-West,3522,212,185.4
+2026-04-16,Digital Thermometers,US-West,3478,212,46.4
+2026-04-17,Digital Thermometers,US-West,3131,212,208.7
+2026-04-18,Digital Thermometers,US-West,3345,212,77.8
+2026-04-19,Digital Thermometers,US-West,3441,212,81.9
+2026-04-20,Digital Thermometers,US-West,3165,212,45.9
+2026-04-21,Digital Thermometers,US-West,3546,212,236.4
+2026-04-22,Digital Thermometers,US-West,3154,212,197.1
+2026-04-23,Digital Thermometers,US-West,2689,212,56.0
+2026-04-24,Digital Thermometers,US-West,2735,212,34.2
+2026-04-25,Digital Thermometers,US-West,3575,212,71.5
+2026-04-26,Digital Thermometers,US-West,3310,212,100.3
+2026-04-27,Digital Thermometers,US-West,3582,212,48.4
+2026-04-28,Digital Thermometers,US-West,2891,212,36.6
+2026-04-29,Digital Thermometers,US-West,2980,212,141.9
+2026-03-01,Nitrile Exam Gloves (Box/100),US-Central,1664,106,32.0
+2026-03-02,Nitrile Exam Gloves (Box/100),US-Central,1577,106,33.6
+2026-03-03,Nitrile Exam Gloves (Box/100),US-Central,1530,106,19.9
+2026-03-04,Nitrile Exam Gloves (Box/100),US-Central,1545,106,140.5
+2026-03-05,Nitrile Exam Gloves (Box/100),US-Central,1501,106,22.4
+2026-03-06,Nitrile Exam Gloves (Box/100),US-Central,1456,106,35.5
+2026-03-07,Nitrile Exam Gloves (Box/100),US-Central,1466,106,25.3
+2026-03-08,Nitrile Exam Gloves (Box/100),US-Central,1612,106,27.3
+2026-03-09,Nitrile Exam Gloves (Box/100),US-Central,1407,106,30.6
+2026-03-10,Nitrile Exam Gloves (Box/100),US-Central,1365,106,23.9
+2026-03-11,Nitrile Exam Gloves (Box/100),US-Central,1406,106,21.0
+2026-03-12,Nitrile Exam Gloves (Box/100),US-Central,1547,106,32.9
+2026-03-13,Nitrile Exam Gloves (Box/100),US-Central,1365,106,40.1
+2026-03-14,Nitrile Exam Gloves (Box/100),US-Central,1319,106,66.0
+2026-03-15,Nitrile Exam Gloves (Box/100),US-Central,1423,106,18.2
+2026-03-16,Nitrile Exam Gloves (Box/100),US-Central,1544,106,85.8
+2026-03-17,Nitrile Exam Gloves (Box/100),US-Central,1177,106,31.8
+2026-03-18,Nitrile Exam Gloves (Box/100),US-Central,1355,106,58.9
+2026-03-19,Nitrile Exam Gloves (Box/100),US-Central,1181,106,18.2
+2026-03-20,Nitrile Exam Gloves (Box/100),US-Central,1500,106,51.7
+2026-03-21,Nitrile Exam Gloves (Box/100),US-Central,1174,106,22.6
+2026-03-22,Nitrile Exam Gloves (Box/100),US-Central,1408,106,74.1
+2026-03-23,Nitrile Exam Gloves (Box/100),US-Central,1337,106,31.8
+2026-03-24,Nitrile Exam Gloves (Box/100),US-Central,1461,106,37.5
+2026-03-25,Nitrile Exam Gloves (Box/100),US-Central,1355,106,21.9
+2026-03-26,Nitrile Exam Gloves (Box/100),US-Central,1125,106,18.4
+2026-03-27,Nitrile Exam Gloves (Box/100),US-Central,1216,106,101.3
+2026-03-28,Nitrile Exam Gloves (Box/100),US-Central,1384,106,17.7
+2026-03-29,Nitrile Exam Gloves (Box/100),US-Central,851,106,47.3
+2026-03-30,Nitrile Exam Gloves (Box/100),US-Central,980,106,65.3
+2026-03-31,Nitrile Exam Gloves (Box/100),US-Central,1430,106,26.0
+2026-04-01,Nitrile Exam Gloves (Box/100),US-Central,1018,106,44.3
+2026-04-02,Nitrile Exam Gloves (Box/100),US-Central,1140,106,54.3
+2026-04-03,Nitrile Exam Gloves (Box/100),US-Central,960,106,16.6
+2026-04-04,Nitrile Exam Gloves (Box/100),US-Central,1431,106,20.4
+2026-04-05,Nitrile Exam Gloves (Box/100),US-Central,801,106,21.1
+2026-04-06,Nitrile Exam Gloves (Box/100),US-Central,956,106,12.1
+2026-04-07,Nitrile Exam Gloves (Box/100),US-Central,663,106,23.7
+2026-04-08,Nitrile Exam Gloves (Box/100),US-Central,639,106,11.2
+2026-04-09,Nitrile Exam Gloves (Box/100),US-Central,694,106,24.8
+2026-04-10,Nitrile Exam Gloves (Box/100),US-Central,1326,106,132.6
+2026-04-11,Nitrile Exam Gloves (Box/100),US-Central,640,106,10.7
+2026-04-12,Nitrile Exam Gloves (Box/100),US-Central,695,106,34.8
+2026-04-13,Nitrile Exam Gloves (Box/100),US-Central,1117,106,20.7
+2026-04-14,Nitrile Exam Gloves (Box/100),US-Central,786,106,10.5
+2026-04-15,Nitrile Exam Gloves (Box/100),US-Central,1119,106,33.9
+2026-04-16,Nitrile Exam Gloves (Box/100),US-Central,475,106,11.3
+2026-04-17,Nitrile Exam Gloves (Box/100),US-Central,1199,106,36.3
+2026-04-18,Nitrile Exam Gloves (Box/100),US-Central,532,106,33.2
+2026-04-19,Nitrile Exam Gloves (Box/100),US-Central,581,106,8.4
+2026-04-20,Nitrile Exam Gloves (Box/100),US-Central,533,106,28.1
+2026-04-21,Nitrile Exam Gloves (Box/100),US-Central,1231,106,29.3
+2026-04-22,Nitrile Exam Gloves (Box/100),US-Central,991,106,13.8
+2026-04-23,Nitrile Exam Gloves (Box/100),US-Central,745,106,28.7
+2026-04-24,Nitrile Exam Gloves (Box/100),US-Central,286,106,7.2
+2026-04-25,Nitrile Exam Gloves (Box/100),US-Central,793,106,44.1
+2026-04-26,Nitrile Exam Gloves (Box/100),US-Central,1050,106,21.0
+2026-04-27,Nitrile Exam Gloves (Box/100),US-Central,530,106,10.2
+2026-04-28,Nitrile Exam Gloves (Box/100),US-Central,817,106,28.2
+2026-04-29,Nitrile Exam Gloves (Box/100),US-Central,266,106,4.8
+2026-03-01,Nitrile Exam Gloves (Box/100),US-West,3482,130,348.2
+2026-03-02,Nitrile Exam Gloves (Box/100),US-West,3456,130,90.9
+2026-03-03,Nitrile Exam Gloves (Box/100),US-West,3469,130,53.4
+2026-03-04,Nitrile Exam Gloves (Box/100),US-West,3415,130,126.5
+2026-03-05,Nitrile Exam Gloves (Box/100),US-West,3454,130,48.6
+2026-03-06,Nitrile Exam Gloves (Box/100),US-West,3392,130,61.7
+2026-03-07,Nitrile Exam Gloves (Box/100),US-West,3443,130,47.8
+2026-03-08,Nitrile Exam Gloves (Box/100),US-West,3442,130,107.6
+2026-03-09,Nitrile Exam Gloves (Box/100),US-West,3318,130,165.9
+2026-03-10,Nitrile Exam Gloves (Box/100),US-West,3418,130,126.6
+2026-03-11,Nitrile Exam Gloves (Box/100),US-West,3322,130,94.9
+2026-03-12,Nitrile Exam Gloves (Box/100),US-West,3186,130,167.7
+2026-03-13,Nitrile Exam Gloves (Box/100),US-West,3437,130,286.4
+2026-03-14,Nitrile Exam Gloves (Box/100),US-West,3263,130,251.0
+2026-03-15,Nitrile Exam Gloves (Box/100),US-West,3210,130,52.6
+2026-03-16,Nitrile Exam Gloves (Box/100),US-West,3181,130,86.0
+2026-03-17,Nitrile Exam Gloves (Box/100),US-West,3448,130,43.1
+2026-03-18,Nitrile Exam Gloves (Box/100),US-West,3087,130,39.1
+2026-03-19,Nitrile Exam Gloves (Box/100),US-West,3038,130,104.8
+2026-03-20,Nitrile Exam Gloves (Box/100),US-West,3151,130,82.9
+2026-03-21,Nitrile Exam Gloves (Box/100),US-West,3082,130,65.6
+2026-03-22,Nitrile Exam Gloves (Box/100),US-West,3046,130,41.2
+2026-03-23,Nitrile Exam Gloves (Box/100),US-West,3339,130,55.6
+2026-03-24,Nitrile Exam Gloves (Box/100),US-West,2991,130,271.9
+2026-03-25,Nitrile Exam Gloves (Box/100),US-West,3224,130,104.0
+2026-03-26,Nitrile Exam Gloves (Box/100),US-West,2999,130,111.1
+2026-03-27,Nitrile Exam Gloves (Box/100),US-West,3225,130,100.8
+2026-03-28,Nitrile Exam Gloves (Box/100),US-West,2879,130,102.8
+2026-03-29,Nitrile Exam Gloves (Box/100),US-West,2962,130,53.9
+2026-03-30,Nitrile Exam Gloves (Box/100),US-West,3085,130,42.8
+2026-03-31,Nitrile Exam Gloves (Box/100),US-West,3247,130,75.5
+2026-04-01,Nitrile Exam Gloves (Box/100),US-West,3103,130,206.9
+2026-04-02,Nitrile Exam Gloves (Box/100),US-West,3161,130,41.6
+2026-04-03,Nitrile Exam Gloves (Box/100),US-West,3016,130,51.1
+2026-04-04,Nitrile Exam Gloves (Box/100),US-West,2842,130,189.5
+2026-04-05,Nitrile Exam Gloves (Box/100),US-West,2558,130,50.2
+2026-04-06,Nitrile Exam Gloves (Box/100),US-West,2685,130,59.7
+2026-04-07,Nitrile Exam Gloves (Box/100),US-West,3053,130,38.6
+2026-04-08,Nitrile Exam Gloves (Box/100),US-West,3120,130,53.8
+2026-04-09,Nitrile Exam Gloves (Box/100),US-West,2848,130,50.9
+2026-04-10,Nitrile Exam Gloves (Box/100),US-West,2503,130,131.7
+2026-04-11,Nitrile Exam Gloves (Box/100),US-West,2961,130,51.1
+2026-04-12,Nitrile Exam Gloves (Box/100),US-West,3040,130,40.0
+2026-04-13,Nitrile Exam Gloves (Box/100),US-West,2791,130,51.7
+2026-04-14,Nitrile Exam Gloves (Box/100),US-West,2610,130,261.0
+2026-04-15,Nitrile Exam Gloves (Box/100),US-West,3087,130,46.8
+2026-04-16,Nitrile Exam Gloves (Box/100),US-West,2897,130,152.5
+2026-04-17,Nitrile Exam Gloves (Box/100),US-West,2318,130,51.5
+2026-04-18,Nitrile Exam Gloves (Box/100),US-West,3023,130,91.6
+2026-04-19,Nitrile Exam Gloves (Box/100),US-West,2664,130,106.6
+2026-04-20,Nitrile Exam Gloves (Box/100),US-West,2912,130,46.2
+2026-04-21,Nitrile Exam Gloves (Box/100),US-West,2766,130,115.2
+2026-04-22,Nitrile Exam Gloves (Box/100),US-West,2449,130,34.5
+2026-04-23,Nitrile Exam Gloves (Box/100),US-West,2235,130,74.5
+2026-04-24,Nitrile Exam Gloves (Box/100),US-West,2538,130,211.5
+2026-04-25,Nitrile Exam Gloves (Box/100),US-West,3129,130,120.3
+2026-04-26,Nitrile Exam Gloves (Box/100),US-West,2213,130,73.8
+2026-04-27,Nitrile Exam Gloves (Box/100),US-West,2020,130,26.9
+2026-04-28,Nitrile Exam Gloves (Box/100),US-West,2099,130,75.0
+2026-04-29,Nitrile Exam Gloves (Box/100),US-West,2845,130,66.2
+2026-03-01,Surgical Tape Rolls,US-East,3964,96,330.3
+2026-03-02,Surgical Tape Rolls,US-East,3996,96,199.8
+2026-03-03,Surgical Tape Rolls,US-East,3887,96,55.5
+2026-03-04,Surgical Tape Rolls,US-East,3949,96,127.4
+2026-03-05,Surgical Tape Rolls,US-East,3854,96,137.6
+2026-03-06,Surgical Tape Rolls,US-East,3884,96,117.7
+2026-03-07,Surgical Tape Rolls,US-East,3851,96,89.6
+2026-03-08,Surgical Tape Rolls,US-East,3814,96,56.1
+2026-03-09,Surgical Tape Rolls,US-East,3790,96,210.6
+2026-03-10,Surgical Tape Rolls,US-East,3774,96,64.0
+2026-03-11,Surgical Tape Rolls,US-East,3834,96,319.5
+2026-03-12,Surgical Tape Rolls,US-East,3692,96,49.9
+2026-03-13,Surgical Tape Rolls,US-East,3769,96,130.0
+2026-03-14,Surgical Tape Rolls,US-East,3871,96,121.0
+2026-03-15,Surgical Tape Rolls,US-East,3622,96,258.7
+2026-03-16,Surgical Tape Rolls,US-East,3680,96,49.7
+2026-03-17,Surgical Tape Rolls,US-East,3866,96,184.1
+2026-03-18,Surgical Tape Rolls,US-East,3806,96,48.2
+2026-03-19,Surgical Tape Rolls,US-East,3913,96,60.2
+2026-03-20,Surgical Tape Rolls,US-East,3622,96,63.5
+2026-03-21,Surgical Tape Rolls,US-East,3889,96,50.5
+2026-03-22,Surgical Tape Rolls,US-East,3700,96,52.1
+2026-03-23,Surgical Tape Rolls,US-East,3625,96,67.1
+2026-03-24,Surgical Tape Rolls,US-East,3444,96,156.5
+2026-03-25,Surgical Tape Rolls,US-East,3736,96,89.0
+2026-03-26,Surgical Tape Rolls,US-East,3659,96,182.9
+2026-03-27,Surgical Tape Rolls,US-East,3310,96,41.9
+2026-03-28,Surgical Tape Rolls,US-East,3599,96,105.9
+2026-03-29,Surgical Tape Rolls,US-East,3758,96,49.4
+2026-03-30,Surgical Tape Rolls,US-East,3304,96,330.4
+2026-03-31,Surgical Tape Rolls,US-East,3196,96,88.8
+2026-04-01,Surgical Tape Rolls,US-East,3521,96,56.8
+2026-04-02,Surgical Tape Rolls,US-East,3688,96,127.2
+2026-04-03,Surgical Tape Rolls,US-East,3127,96,74.5
+2026-04-04,Surgical Tape Rolls,US-East,3183,96,49.7
+2026-04-05,Surgical Tape Rolls,US-East,3410,96,75.8
+2026-04-06,Surgical Tape Rolls,US-East,3373,96,93.7
+2026-04-07,Surgical Tape Rolls,US-East,3136,96,44.2
+2026-04-08,Surgical Tape Rolls,US-East,3312,96,46.6
+2026-04-09,Surgical Tape Rolls,US-East,3384,96,62.7
+2026-04-10,Surgical Tape Rolls,US-East,3317,96,122.9
+2026-04-11,Surgical Tape Rolls,US-East,3679,96,94.3
+2026-04-12,Surgical Tape Rolls,US-East,3535,96,160.7
+2026-04-13,Surgical Tape Rolls,US-East,3022,96,49.5
+2026-04-14,Surgical Tape Rolls,US-East,3338,96,41.7
+2026-04-15,Surgical Tape Rolls,US-East,3706,96,123.5
+2026-04-16,Surgical Tape Rolls,US-East,2797,96,279.7
+2026-04-17,Surgical Tape Rolls,US-East,3671,96,131.1
+2026-04-18,Surgical Tape Rolls,US-East,2806,96,43.2
+2026-04-19,Surgical Tape Rolls,US-East,3566,96,82.9
+2026-04-20,Surgical Tape Rolls,US-East,3126,96,156.3
+2026-04-21,Surgical Tape Rolls,US-East,3669,96,62.2
+2026-04-22,Surgical Tape Rolls,US-East,3133,96,41.2
+2026-04-23,Surgical Tape Rolls,US-East,2662,96,156.6
+2026-04-24,Surgical Tape Rolls,US-East,3457,96,47.4
+2026-04-25,Surgical Tape Rolls,US-East,3679,96,105.1
+2026-04-26,Surgical Tape Rolls,US-East,2830,96,61.5
+2026-04-27,Surgical Tape Rolls,US-East,3580,96,47.7
+2026-04-28,Surgical Tape Rolls,US-East,3268,96,105.4
+2026-04-29,Surgical Tape Rolls,US-East,3630,96,64.8
+2026-03-01,Surgical Tape Rolls,EU-West,1099,217,52.3
+2026-03-02,Surgical Tape Rolls,EU-West,1117,217,20.3
+2026-03-03,Surgical Tape Rolls,EU-West,1150,217,18.9
+2026-03-04,Surgical Tape Rolls,EU-West,1141,217,15.0
+2026-03-05,Surgical Tape Rolls,EU-West,1072,217,51.0
+2026-03-06,Surgical Tape Rolls,EU-West,1099,217,20.4
+2026-03-07,Surgical Tape Rolls,EU-West,1065,217,28.0
+2026-03-08,Surgical Tape Rolls,EU-West,1099,217,16.2
+2026-03-09,Surgical Tape Rolls,EU-West,1082,217,108.2
+2026-03-10,Surgical Tape Rolls,EU-West,1042,217,16.8
+2026-03-11,Surgical Tape Rolls,EU-West,1083,217,57.0
+2026-03-12,Surgical Tape Rolls,EU-West,1009,217,19.0
+2026-03-13,Surgical Tape Rolls,EU-West,861,217,20.5
+2026-03-14,Surgical Tape Rolls,EU-West,925,217,22.0
+2026-03-15,Surgical Tape Rolls,EU-West,921,217,15.9
+2026-03-16,Surgical Tape Rolls,EU-West,871,217,21.2
+2026-03-17,Surgical Tape Rolls,EU-West,955,217,14.0
+2026-03-18,Surgical Tape Rolls,EU-West,863,217,66.4
+2026-03-19,Surgical Tape Rolls,EU-West,1016,217,23.6
+2026-03-20,Surgical Tape Rolls,EU-West,784,217,20.6
+2026-03-21,Surgical Tape Rolls,EU-West,945,217,18.9
+2026-03-22,Surgical Tape Rolls,EU-West,815,217,10.7
+2026-03-23,Surgical Tape Rolls,EU-West,1057,217,24.6
+2026-03-24,Surgical Tape Rolls,EU-West,808,217,38.5
+2026-03-25,Surgical Tape Rolls,EU-West,790,217,41.6
+2026-03-26,Surgical Tape Rolls,EU-West,919,217,13.1
+2026-03-27,Surgical Tape Rolls,EU-West,723,217,19.5
+2026-03-28,Surgical Tape Rolls,EU-West,592,217,13.5
+2026-03-29,Surgical Tape Rolls,EU-West,814,217,11.2
+2026-03-30,Surgical Tape Rolls,EU-West,874,217,21.9
+2026-03-31,Surgical Tape Rolls,EU-West,833,217,19.4
+2026-04-01,Surgical Tape Rolls,EU-West,753,217,21.5
+2026-04-02,Surgical Tape Rolls,EU-West,821,217,14.9
+2026-04-03,Surgical Tape Rolls,EU-West,854,217,34.2
+2026-04-04,Surgical Tape Rolls,EU-West,978,217,13.4
+2026-04-05,Surgical Tape Rolls,EU-West,1002,217,12.7
+2026-04-06,Surgical Tape Rolls,EU-West,384,217,6.7
+2026-04-07,Surgical Tape Rolls,EU-West,623,217,8.5
+2026-04-08,Surgical Tape Rolls,EU-West,339,217,7.5
+2026-04-09,Surgical Tape Rolls,EU-West,771,217,10.3
+2026-04-10,Surgical Tape Rolls,EU-West,454,217,11.9
+2026-04-11,Surgical Tape Rolls,EU-West,252,217,9.7
+2026-04-12,Surgical Tape Rolls,EU-West,223,217,3.5
+2026-04-13,Surgical Tape Rolls,EU-West,214,217,15.3
+2026-04-14,Surgical Tape Rolls,EU-West,459,217,7.7
+2026-04-15,Surgical Tape Rolls,EU-West,759,217,11.2
+2026-04-16,Surgical Tape Rolls,EU-West,148,217,2.2
+2026-04-17,Surgical Tape Rolls,EU-West,904,217,82.2
+2026-04-18,Surgical Tape Rolls,EU-West,657,217,11.3
+2026-04-19,Surgical Tape Rolls,EU-West,781,217,15.3
+2026-04-20,Surgical Tape Rolls,EU-West,0,217,0.0
+2026-04-21,Surgical Tape Rolls,EU-West,0,217,0.0
+2026-04-22,Surgical Tape Rolls,EU-West,453,217,6.5
+2026-04-23,Surgical Tape Rolls,EU-West,382,217,6.8
+2026-04-24,Surgical Tape Rolls,EU-West,42,217,0.7
+2026-04-25,Surgical Tape Rolls,EU-West,135,217,2.4
+2026-04-26,Surgical Tape Rolls,EU-West,193,217,4.3
+2026-04-27,Surgical Tape Rolls,EU-West,586,217,22.5
+2026-04-28,Surgical Tape Rolls,EU-West,476,217,21.6
+2026-04-29,Surgical Tape Rolls,EU-West,424,217,10.6
+2026-03-01,Acetaminophen Tablets (1000ct),US-West,2503,160,71.5
+2026-03-02,Acetaminophen Tablets (1000ct),US-West,2403,160,34.3
+2026-03-03,Acetaminophen Tablets (1000ct),US-West,2487,160,77.7
+2026-03-04,Acetaminophen Tablets (1000ct),US-West,2387,160,88.4
+2026-03-05,Acetaminophen Tablets (1000ct),US-West,2408,160,31.7
+2026-03-06,Acetaminophen Tablets (1000ct),US-West,2387,160,33.2
+2026-03-07,Acetaminophen Tablets (1000ct),US-West,2354,160,147.1
+2026-03-08,Acetaminophen Tablets (1000ct),US-West,2388,160,79.6
+2026-03-09,Acetaminophen Tablets (1000ct),US-West,2313,160,55.1
+2026-03-10,Acetaminophen Tablets (1000ct),US-West,2229,160,101.3
+2026-03-11,Acetaminophen Tablets (1000ct),US-West,2301,160,53.5
+2026-03-12,Acetaminophen Tablets (1000ct),US-West,2264,160,53.9
+2026-03-13,Acetaminophen Tablets (1000ct),US-West,2378,160,38.4
+2026-03-14,Acetaminophen Tablets (1000ct),US-West,2201,160,62.9
+2026-03-15,Acetaminophen Tablets (1000ct),US-West,2145,160,27.5
+2026-03-16,Acetaminophen Tablets (1000ct),US-West,2206,160,40.1
+2026-03-17,Acetaminophen Tablets (1000ct),US-West,2099,160,29.2
+2026-03-18,Acetaminophen Tablets (1000ct),US-West,2170,160,108.5
+2026-03-19,Acetaminophen Tablets (1000ct),US-West,2010,160,43.7
+2026-03-20,Acetaminophen Tablets (1000ct),US-West,1978,160,70.6
+2026-03-21,Acetaminophen Tablets (1000ct),US-West,2305,160,43.5
+2026-03-22,Acetaminophen Tablets (1000ct),US-West,1922,160,31.5
+2026-03-23,Acetaminophen Tablets (1000ct),US-West,2348,160,117.4
+2026-03-24,Acetaminophen Tablets (1000ct),US-West,2069,160,53.1
+2026-03-25,Acetaminophen Tablets (1000ct),US-West,2074,160,44.1
+2026-03-26,Acetaminophen Tablets (1000ct),US-West,2159,160,36.0
+2026-03-27,Acetaminophen Tablets (1000ct),US-West,1934,160,34.5
+2026-03-28,Acetaminophen Tablets (1000ct),US-West,1868,160,24.6
+2026-03-29,Acetaminophen Tablets (1000ct),US-West,1947,160,62.8
+2026-03-30,Acetaminophen Tablets (1000ct),US-West,2272,160,87.4
+2026-03-31,Acetaminophen Tablets (1000ct),US-West,2127,160,50.6
+2026-04-01,Acetaminophen Tablets (1000ct),US-West,2297,160,63.8
+2026-04-02,Acetaminophen Tablets (1000ct),US-West,1871,160,81.3
+2026-04-03,Acetaminophen Tablets (1000ct),US-West,2175,160,31.1
+2026-04-04,Acetaminophen Tablets (1000ct),US-West,2260,160,173.8
+2026-04-05,Acetaminophen Tablets (1000ct),US-West,1897,160,24.6
+2026-04-06,Acetaminophen Tablets (1000ct),US-West,2239,160,97.3
+2026-04-07,Acetaminophen Tablets (1000ct),US-West,1539,160,53.1
+2026-04-08,Acetaminophen Tablets (1000ct),US-West,1454,160,24.6
+2026-04-09,Acetaminophen Tablets (1000ct),US-West,1965,160,47.9
+2026-04-10,Acetaminophen Tablets (1000ct),US-West,1928,160,29.2
+2026-04-11,Acetaminophen Tablets (1000ct),US-West,2105,160,81.0
+2026-04-12,Acetaminophen Tablets (1000ct),US-West,2041,160,157.0
+2026-04-13,Acetaminophen Tablets (1000ct),US-West,1710,160,33.5
+2026-04-14,Acetaminophen Tablets (1000ct),US-West,1624,160,23.5
+2026-04-15,Acetaminophen Tablets (1000ct),US-West,1515,160,34.4
+2026-04-16,Acetaminophen Tablets (1000ct),US-West,1590,160,58.9
+2026-04-17,Acetaminophen Tablets (1000ct),US-West,1449,160,45.3
+2026-04-18,Acetaminophen Tablets (1000ct),US-West,1317,160,19.4
+2026-04-19,Acetaminophen Tablets (1000ct),US-West,1249,160,19.2
+2026-04-20,Acetaminophen Tablets (1000ct),US-West,1211,160,15.5
+2026-04-21,Acetaminophen Tablets (1000ct),US-West,1617,160,22.8
+2026-04-22,Acetaminophen Tablets (1000ct),US-West,1839,160,87.6
+2026-04-23,Acetaminophen Tablets (1000ct),US-West,1708,160,30.5
+2026-04-24,Acetaminophen Tablets (1000ct),US-West,1744,160,60.1
+2026-04-25,Acetaminophen Tablets (1000ct),US-West,2157,160,215.7
+2026-04-26,Acetaminophen Tablets (1000ct),US-West,1956,160,36.2
+2026-04-27,Acetaminophen Tablets (1000ct),US-West,1290,160,16.5
+2026-04-28,Acetaminophen Tablets (1000ct),US-West,1235,160,17.4
+2026-04-29,Acetaminophen Tablets (1000ct),US-West,2137,160,32.9
+2026-03-01,Acetaminophen Tablets (1000ct),EU-West,3464,124,346.4
+2026-03-02,Acetaminophen Tablets (1000ct),EU-West,3442,124,101.2
+2026-03-03,Acetaminophen Tablets (1000ct),EU-West,3396,124,52.2
+2026-03-04,Acetaminophen Tablets (1000ct),EU-West,3402,124,113.4
+2026-03-05,Acetaminophen Tablets (1000ct),EU-West,3379,124,57.3
+2026-03-06,Acetaminophen Tablets (1000ct),EU-West,3409,124,89.7
+2026-03-07,Acetaminophen Tablets (1000ct),EU-West,3379,124,52.8
+2026-03-08,Acetaminophen Tablets (1000ct),EU-West,3384,124,44.5
+2026-03-09,Acetaminophen Tablets (1000ct),EU-West,3293,124,74.8
+2026-03-10,Acetaminophen Tablets (1000ct),EU-West,3199,124,41.0
+2026-03-11,Acetaminophen Tablets (1000ct),EU-West,3361,124,54.2
+2026-03-12,Acetaminophen Tablets (1000ct),EU-West,3335,124,101.1
+2026-03-13,Acetaminophen Tablets (1000ct),EU-West,3237,124,134.9
+2026-03-14,Acetaminophen Tablets (1000ct),EU-West,3222,124,48.1
+2026-03-15,Acetaminophen Tablets (1000ct),EU-West,3086,124,42.9
+2026-03-16,Acetaminophen Tablets (1000ct),EU-West,3187,124,265.6
+2026-03-17,Acetaminophen Tablets (1000ct),EU-West,3311,124,42.4
+2026-03-18,Acetaminophen Tablets (1000ct),EU-West,3220,124,140.0
+2026-03-19,Acetaminophen Tablets (1000ct),EU-West,3190,124,122.7
+2026-03-20,Acetaminophen Tablets (1000ct),EU-West,3118,124,283.5
+2026-03-21,Acetaminophen Tablets (1000ct),EU-West,3277,124,113.0
+2026-03-22,Acetaminophen Tablets (1000ct),EU-West,2969,124,80.2
+2026-03-23,Acetaminophen Tablets (1000ct),EU-West,3035,124,61.9
+2026-03-24,Acetaminophen Tablets (1000ct),EU-West,3028,124,53.1
+2026-03-25,Acetaminophen Tablets (1000ct),EU-West,3303,124,63.5
+2026-03-26,Acetaminophen Tablets (1000ct),EU-West,3173,124,186.6
+2026-03-27,Acetaminophen Tablets (1000ct),EU-West,2980,124,156.8
+2026-03-28,Acetaminophen Tablets (1000ct),EU-West,2917,124,88.4
+2026-03-29,Acetaminophen Tablets (1000ct),EU-West,3048,124,52.6
+2026-03-30,Acetaminophen Tablets (1000ct),EU-West,3349,124,134.0
+2026-03-31,Acetaminophen Tablets (1000ct),EU-West,3126,124,53.0
+2026-04-01,Acetaminophen Tablets (1000ct),EU-West,2897,124,70.7
+2026-04-02,Acetaminophen Tablets (1000ct),EU-West,3290,124,94.0
+2026-04-03,Acetaminophen Tablets (1000ct),EU-West,3182,124,41.9
+2026-04-04,Acetaminophen Tablets (1000ct),EU-West,3099,124,44.3
+2026-04-05,Acetaminophen Tablets (1000ct),EU-West,2947,124,57.8
+2026-04-06,Acetaminophen Tablets (1000ct),EU-West,2508,124,167.2
+2026-04-07,Acetaminophen Tablets (1000ct),EU-West,2669,124,35.1
+2026-04-08,Acetaminophen Tablets (1000ct),EU-West,2909,124,41.0
+2026-04-09,Acetaminophen Tablets (1000ct),EU-West,2923,124,83.5
+2026-04-10,Acetaminophen Tablets (1000ct),EU-West,3194,124,86.3
+2026-04-11,Acetaminophen Tablets (1000ct),EU-West,2910,124,44.8
+2026-04-12,Acetaminophen Tablets (1000ct),EU-West,3219,124,103.8
+2026-04-13,Acetaminophen Tablets (1000ct),EU-West,2930,124,117.2
+2026-04-14,Acetaminophen Tablets (1000ct),EU-West,2910,124,264.5
+2026-04-15,Acetaminophen Tablets (1000ct),EU-West,2358,124,33.7
+2026-04-16,Acetaminophen Tablets (1000ct),EU-West,2372,124,81.8
+2026-04-17,Acetaminophen Tablets (1000ct),EU-West,3106,124,75.8
+2026-04-18,Acetaminophen Tablets (1000ct),EU-West,2448,124,116.6
+2026-04-19,Acetaminophen Tablets (1000ct),EU-West,2299,124,43.4
+2026-04-20,Acetaminophen Tablets (1000ct),EU-West,2257,124,132.8
+2026-04-21,Acetaminophen Tablets (1000ct),EU-West,2579,124,88.9
+2026-04-22,Acetaminophen Tablets (1000ct),EU-West,2333,124,101.4
+2026-04-23,Acetaminophen Tablets (1000ct),EU-West,2344,124,60.1
+2026-04-24,Acetaminophen Tablets (1000ct),EU-West,2240,124,41.5
+2026-04-25,Acetaminophen Tablets (1000ct),EU-West,2446,124,71.9
+2026-04-26,Acetaminophen Tablets (1000ct),EU-West,2438,124,44.3
+2026-04-27,Acetaminophen Tablets (1000ct),EU-West,2967,124,70.6
+2026-04-28,Acetaminophen Tablets (1000ct),EU-West,3155,124,43.8
+2026-04-29,Acetaminophen Tablets (1000ct),EU-West,2357,124,50.1
+2026-03-01,Amoxicillin Capsules (500ct),EU-West,2405,228,72.9
+2026-03-02,Amoxicillin Capsules (500ct),EU-West,2396,228,47.0
+2026-03-03,Amoxicillin Capsules (500ct),EU-West,2398,228,53.3
+2026-03-04,Amoxicillin Capsules (500ct),EU-West,2382,228,29.8
+2026-03-05,Amoxicillin Capsules (500ct),EU-West,2335,228,30.3
+2026-03-06,Amoxicillin Capsules (500ct),EU-West,2267,228,48.2
+2026-03-07,Amoxicillin Capsules (500ct),EU-West,2369,228,30.0
+2026-03-08,Amoxicillin Capsules (500ct),EU-West,2256,228,225.6
+2026-03-09,Amoxicillin Capsules (500ct),EU-West,2242,228,30.3
+2026-03-10,Amoxicillin Capsules (500ct),EU-West,2301,228,191.8
+2026-03-11,Amoxicillin Capsules (500ct),EU-West,2262,228,56.5
+2026-03-12,Amoxicillin Capsules (500ct),EU-West,2307,228,29.6
+2026-03-13,Amoxicillin Capsules (500ct),EU-West,2243,228,66.0
+2026-03-14,Amoxicillin Capsules (500ct),EU-West,2150,228,26.9
+2026-03-15,Amoxicillin Capsules (500ct),EU-West,2026,228,44.0
+2026-03-16,Amoxicillin Capsules (500ct),EU-West,2114,228,41.5
+2026-03-17,Amoxicillin Capsules (500ct),EU-West,2229,228,29.3
+2026-03-18,Amoxicillin Capsules (500ct),EU-West,2308,228,153.9
+2026-03-19,Amoxicillin Capsules (500ct),EU-West,2287,228,71.5
+2026-03-20,Amoxicillin Capsules (500ct),EU-West,2340,228,66.9
+2026-03-21,Amoxicillin Capsules (500ct),EU-West,1956,228,57.5
+2026-03-22,Amoxicillin Capsules (500ct),EU-West,2229,228,37.8
+2026-03-23,Amoxicillin Capsules (500ct),EU-West,1987,228,25.8
+2026-03-24,Amoxicillin Capsules (500ct),EU-West,1893,228,45.1
+2026-03-25,Amoxicillin Capsules (500ct),EU-West,1965,228,51.7
+2026-03-26,Amoxicillin Capsules (500ct),EU-West,2245,228,204.1
+2026-03-27,Amoxicillin Capsules (500ct),EU-West,2176,228,30.2
+2026-03-28,Amoxicillin Capsules (500ct),EU-West,2272,228,32.9
+2026-03-29,Amoxicillin Capsules (500ct),EU-West,1745,228,102.6
+2026-03-30,Amoxicillin Capsules (500ct),EU-West,1751,228,27.8
+2026-03-31,Amoxicillin Capsules (500ct),EU-West,1968,228,115.8
+2026-04-01,Amoxicillin Capsules (500ct),EU-West,1704,228,38.7
+2026-04-02,Amoxicillin Capsules (500ct),EU-West,2218,228,116.7
+2026-04-03,Amoxicillin Capsules (500ct),EU-West,1987,228,104.6
+2026-04-04,Amoxicillin Capsules (500ct),EU-West,2089,228,27.5
+2026-04-05,Amoxicillin Capsules (500ct),EU-West,2075,228,53.2
+2026-04-06,Amoxicillin Capsules (500ct),EU-West,1799,228,52.9
+2026-04-07,Amoxicillin Capsules (500ct),EU-West,1590,228,38.8
+2026-04-08,Amoxicillin Capsules (500ct),EU-West,1465,228,45.8
+2026-04-09,Amoxicillin Capsules (500ct),EU-West,1556,228,24.7
+2026-04-10,Amoxicillin Capsules (500ct),EU-West,2118,228,38.5
+2026-04-11,Amoxicillin Capsules (500ct),EU-West,1650,228,25.8
+2026-04-12,Amoxicillin Capsules (500ct),EU-West,2120,228,68.4
+2026-04-13,Amoxicillin Capsules (500ct),EU-West,2014,228,25.2
+2026-04-14,Amoxicillin Capsules (500ct),EU-West,1470,228,27.7
+2026-04-15,Amoxicillin Capsules (500ct),EU-West,1977,228,25.3
+2026-04-16,Amoxicillin Capsules (500ct),EU-West,1545,228,28.1
+2026-04-17,Amoxicillin Capsules (500ct),EU-West,1753,228,21.9
+2026-04-18,Amoxicillin Capsules (500ct),EU-West,1616,228,26.1
+2026-04-19,Amoxicillin Capsules (500ct),EU-West,1215,228,18.7
+2026-04-20,Amoxicillin Capsules (500ct),EU-West,1698,228,42.5
+2026-04-21,Amoxicillin Capsules (500ct),EU-West,1293,228,34.9
+2026-04-22,Amoxicillin Capsules (500ct),EU-West,1247,228,29.7
+2026-04-23,Amoxicillin Capsules (500ct),EU-West,1382,228,20.6
+2026-04-24,Amoxicillin Capsules (500ct),EU-West,2123,228,151.6
+2026-04-25,Amoxicillin Capsules (500ct),EU-West,1059,228,88.2
+2026-04-26,Amoxicillin Capsules (500ct),EU-West,1905,228,39.7
+2026-04-27,Amoxicillin Capsules (500ct),EU-West,1545,228,40.7
+2026-04-28,Amoxicillin Capsules (500ct),EU-West,1500,228,125.0
+2026-04-29,Amoxicillin Capsules (500ct),EU-West,1674,228,20.9
+2026-03-01,Amoxicillin Capsules (500ct),US-West,2287,192,78.9
+2026-03-02,Amoxicillin Capsules (500ct),US-West,2220,192,32.6
+2026-03-03,Amoxicillin Capsules (500ct),US-West,2241,192,83.0
+2026-03-04,Amoxicillin Capsules (500ct),US-West,2199,192,53.6
+2026-03-05,Amoxicillin Capsules (500ct),US-West,2191,192,45.6
+2026-03-06,Amoxicillin Capsules (500ct),US-West,2110,192,34.6
+2026-03-07,Amoxicillin Capsules (500ct),US-West,2220,192,116.8
+2026-03-08,Amoxicillin Capsules (500ct),US-West,2201,192,31.0
+2026-03-09,Amoxicillin Capsules (500ct),US-West,2076,192,94.4
+2026-03-10,Amoxicillin Capsules (500ct),US-West,2065,192,43.0
+2026-03-11,Amoxicillin Capsules (500ct),US-West,1988,192,34.3
+2026-03-12,Amoxicillin Capsules (500ct),US-West,2158,192,41.5
+2026-03-13,Amoxicillin Capsules (500ct),US-West,2042,192,32.4
+2026-03-14,Amoxicillin Capsules (500ct),US-West,2229,192,57.2
+2026-03-15,Amoxicillin Capsules (500ct),US-West,1959,192,178.1
+2026-03-16,Amoxicillin Capsules (500ct),US-West,1920,192,33.1
+2026-03-17,Amoxicillin Capsules (500ct),US-West,1996,192,25.9
+2026-03-18,Amoxicillin Capsules (500ct),US-West,1964,192,24.9
+2026-03-19,Amoxicillin Capsules (500ct),US-West,2124,192,41.6
+2026-03-20,Amoxicillin Capsules (500ct),US-West,2050,192,70.7
+2026-03-21,Amoxicillin Capsules (500ct),US-West,1880,192,28.1
+2026-03-22,Amoxicillin Capsules (500ct),US-West,1806,192,24.4
+2026-03-23,Amoxicillin Capsules (500ct),US-West,1961,192,30.2
+2026-03-24,Amoxicillin Capsules (500ct),US-West,1860,192,66.4
+2026-03-25,Amoxicillin Capsules (500ct),US-West,1870,192,93.5
+2026-03-26,Amoxicillin Capsules (500ct),US-West,1699,192,106.2
+2026-03-27,Amoxicillin Capsules (500ct),US-West,1842,192,42.8
+2026-03-28,Amoxicillin Capsules (500ct),US-West,1765,192,23.9
+2026-03-29,Amoxicillin Capsules (500ct),US-West,2017,192,74.7
+2026-03-30,Amoxicillin Capsules (500ct),US-West,1637,192,46.8
+2026-03-31,Amoxicillin Capsules (500ct),US-West,1766,192,50.5
+2026-04-01,Amoxicillin Capsules (500ct),US-West,1541,192,20.0
+2026-04-02,Amoxicillin Capsules (500ct),US-West,1861,192,97.9
+2026-04-03,Amoxicillin Capsules (500ct),US-West,1654,192,32.4
+2026-04-04,Amoxicillin Capsules (500ct),US-West,1519,192,72.3
+2026-04-05,Amoxicillin Capsules (500ct),US-West,1598,192,25.0
+2026-04-06,Amoxicillin Capsules (500ct),US-West,1684,192,49.5
+2026-04-07,Amoxicillin Capsules (500ct),US-West,1663,192,127.9
+2026-04-08,Amoxicillin Capsules (500ct),US-West,1780,192,57.4
+2026-04-09,Amoxicillin Capsules (500ct),US-West,1322,192,20.0
+2026-04-10,Amoxicillin Capsules (500ct),US-West,1933,192,29.3
+2026-04-11,Amoxicillin Capsules (500ct),US-West,1727,192,49.3
+2026-04-12,Amoxicillin Capsules (500ct),US-West,1629,192,56.2
+2026-04-13,Amoxicillin Capsules (500ct),US-West,2009,192,83.7
+2026-04-14,Amoxicillin Capsules (500ct),US-West,2044,192,49.9
+2026-04-15,Amoxicillin Capsules (500ct),US-West,1888,192,41.0
+2026-04-16,Amoxicillin Capsules (500ct),US-West,1525,192,63.5
+2026-04-17,Amoxicillin Capsules (500ct),US-West,1360,192,19.4
+2026-04-18,Amoxicillin Capsules (500ct),US-West,1496,192,41.6
+2026-04-19,Amoxicillin Capsules (500ct),US-West,1230,192,33.2
+2026-04-20,Amoxicillin Capsules (500ct),US-West,1140,192,15.0
+2026-04-21,Amoxicillin Capsules (500ct),US-West,1647,192,20.6
+2026-04-22,Amoxicillin Capsules (500ct),US-West,1027,192,36.7
+2026-04-23,Amoxicillin Capsules (500ct),US-West,2037,192,35.1
+2026-04-24,Amoxicillin Capsules (500ct),US-West,1154,192,76.9
+2026-04-25,Amoxicillin Capsules (500ct),US-West,1696,192,99.8
+2026-04-26,Amoxicillin Capsules (500ct),US-West,1634,192,37.1
+2026-04-27,Amoxicillin Capsules (500ct),US-West,1137,192,103.4
+2026-04-28,Amoxicillin Capsules (500ct),US-West,1236,192,28.1
+2026-04-29,Amoxicillin Capsules (500ct),US-West,1354,192,58.9
+2026-03-01,Wound Closure Strips (Box/50),US-Central,309,124,5.2
+2026-03-02,Wound Closure Strips (Box/50),US-Central,210,124,2.8
+2026-03-03,Wound Closure Strips (Box/50),US-Central,272,124,5.4
+2026-03-04,Wound Closure Strips (Box/50),US-Central,188,124,2.4
+2026-03-05,Wound Closure Strips (Box/50),US-Central,169,124,4.8
+2026-03-06,Wound Closure Strips (Box/50),US-Central,167,124,13.9
+2026-03-07,Wound Closure Strips (Box/50),US-Central,131,124,1.7
+2026-03-08,Wound Closure Strips (Box/50),US-Central,132,124,1.8
+2026-03-09,Wound Closure Strips (Box/50),US-Central,168,124,14.0
+2026-03-10,Wound Closure Strips (Box/50),US-Central,98,124,1.8
+2026-03-11,Wound Closure Strips (Box/50),US-Central,138,124,3.5
+2026-03-12,Wound Closure Strips (Box/50),US-Central,119,124,7.0
+2026-03-13,Wound Closure Strips (Box/50),US-Central,122,124,2.1
+2026-03-14,Wound Closure Strips (Box/50),US-Central,246,124,5.5
+2026-03-15,Wound Closure Strips (Box/50),US-Central,100,124,1.9
+2026-03-16,Wound Closure Strips (Box/50),US-Central,57,124,2.1
+2026-03-17,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-18,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-19,Wound Closure Strips (Box/50),US-Central,35,124,1.2
+2026-03-20,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-21,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-22,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-23,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-24,Wound Closure Strips (Box/50),US-Central,101,124,2.1
+2026-03-25,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-26,Wound Closure Strips (Box/50),US-Central,28,124,0.9
+2026-03-27,Wound Closure Strips (Box/50),US-Central,56,124,0.7
+2026-03-28,Wound Closure Strips (Box/50),US-Central,74,124,2.2
+2026-03-29,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-30,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-31,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-01,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-02,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-03,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-04,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-05,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-06,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-07,Wound Closure Strips (Box/50),US-Central,100,124,1.8
+2026-04-08,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-09,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-10,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-11,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-12,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-13,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-14,Wound Closure Strips (Box/50),US-Central,30,124,0.7
+2026-04-15,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-16,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-17,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-18,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-19,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-20,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-21,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-22,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-23,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-24,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-25,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-26,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-27,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-28,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-04-29,Wound Closure Strips (Box/50),US-Central,0,124,0.0
+2026-03-01,Wound Closure Strips (Box/50),EU-West,1788,276,25.9
+2026-03-02,Wound Closure Strips (Box/50),EU-West,1753,276,37.3
+2026-03-03,Wound Closure Strips (Box/50),EU-West,1816,276,23.9
+2026-03-04,Wound Closure Strips (Box/50),EU-West,1838,276,26.6
+2026-03-05,Wound Closure Strips (Box/50),EU-West,1756,276,26.2
+2026-03-06,Wound Closure Strips (Box/50),EU-West,1656,276,69.0
+2026-03-07,Wound Closure Strips (Box/50),EU-West,1635,276,20.7
+2026-03-08,Wound Closure Strips (Box/50),EU-West,1648,276,26.6
+2026-03-09,Wound Closure Strips (Box/50),EU-West,1639,276,126.1
+2026-03-10,Wound Closure Strips (Box/50),EU-West,1601,276,45.7
+2026-03-11,Wound Closure Strips (Box/50),EU-West,1672,276,79.6
+2026-03-12,Wound Closure Strips (Box/50),EU-West,1617,276,53.9
+2026-03-13,Wound Closure Strips (Box/50),EU-West,1745,276,83.1
+2026-03-14,Wound Closure Strips (Box/50),EU-West,1517,276,27.1
+2026-03-15,Wound Closure Strips (Box/50),EU-West,1466,276,24.8
+2026-03-16,Wound Closure Strips (Box/50),EU-West,1528,276,50.9
+2026-03-17,Wound Closure Strips (Box/50),EU-West,1446,276,24.9
+2026-03-18,Wound Closure Strips (Box/50),EU-West,1585,276,30.5
+2026-03-19,Wound Closure Strips (Box/50),EU-West,1660,276,55.3
+2026-03-20,Wound Closure Strips (Box/50),EU-West,1690,276,52.8
+2026-03-21,Wound Closure Strips (Box/50),EU-West,1728,276,27.4
+2026-03-22,Wound Closure Strips (Box/50),EU-West,1495,276,22.3
+2026-03-23,Wound Closure Strips (Box/50),EU-West,1236,276,37.5
+2026-03-24,Wound Closure Strips (Box/50),EU-West,1558,276,44.5
+2026-03-25,Wound Closure Strips (Box/50),EU-West,1174,276,28.0
+2026-03-26,Wound Closure Strips (Box/50),EU-West,1276,276,17.5
+2026-03-27,Wound Closure Strips (Box/50),EU-West,1339,276,16.9
+2026-03-28,Wound Closure Strips (Box/50),EU-West,1718,276,23.5
+2026-03-29,Wound Closure Strips (Box/50),EU-West,1472,276,21.0
+2026-03-30,Wound Closure Strips (Box/50),EU-West,1286,276,19.5
+2026-03-31,Wound Closure Strips (Box/50),EU-West,1040,276,104.0
+2026-04-01,Wound Closure Strips (Box/50),EU-West,1099,276,24.4
+2026-04-02,Wound Closure Strips (Box/50),EU-West,1029,276,28.6
+2026-04-03,Wound Closure Strips (Box/50),EU-West,1426,276,50.9
+2026-04-04,Wound Closure Strips (Box/50),EU-West,907,276,16.8
+2026-04-05,Wound Closure Strips (Box/50),EU-West,1439,276,102.8
+2026-04-06,Wound Closure Strips (Box/50),EU-West,1007,276,21.0
+2026-04-07,Wound Closure Strips (Box/50),EU-West,1533,276,95.8
+2026-04-08,Wound Closure Strips (Box/50),EU-West,1079,276,33.7
+2026-04-09,Wound Closure Strips (Box/50),EU-West,1224,276,38.2
+2026-04-10,Wound Closure Strips (Box/50),EU-West,888,276,15.9
+2026-04-11,Wound Closure Strips (Box/50),EU-West,1623,276,77.3
+2026-04-12,Wound Closure Strips (Box/50),EU-West,1260,276,24.7
+2026-04-13,Wound Closure Strips (Box/50),EU-West,1066,276,59.2
+2026-04-14,Wound Closure Strips (Box/50),EU-West,1055,276,13.2
+2026-04-15,Wound Closure Strips (Box/50),EU-West,1128,276,16.1
+2026-04-16,Wound Closure Strips (Box/50),EU-West,1399,276,31.1
+2026-04-17,Wound Closure Strips (Box/50),EU-West,805,276,13.0
+2026-04-18,Wound Closure Strips (Box/50),EU-West,1289,276,35.8
+2026-04-19,Wound Closure Strips (Box/50),EU-West,1534,276,66.7
+2026-04-20,Wound Closure Strips (Box/50),EU-West,573,276,7.4
+2026-04-21,Wound Closure Strips (Box/50),EU-West,741,276,16.1
+2026-04-22,Wound Closure Strips (Box/50),EU-West,556,276,11.1
+2026-04-23,Wound Closure Strips (Box/50),EU-West,670,276,12.2
+2026-04-24,Wound Closure Strips (Box/50),EU-West,1382,276,18.9
+2026-04-25,Wound Closure Strips (Box/50),EU-West,441,276,6.0
+2026-04-26,Wound Closure Strips (Box/50),EU-West,1253,276,32.1
+2026-04-27,Wound Closure Strips (Box/50),EU-West,1042,276,30.6
+2026-04-28,Wound Closure Strips (Box/50),EU-West,1286,276,98.9
+2026-04-29,Wound Closure Strips (Box/50),EU-West,334,276,13.4
+2026-03-01,Portable Suction Units,EU-West,3166,267,50.3
+2026-03-02,Portable Suction Units,EU-West,3186,267,61.3
+2026-03-03,Portable Suction Units,EU-West,3140,267,84.9
+2026-03-04,Portable Suction Units,EU-West,3066,267,87.6
+2026-03-05,Portable Suction Units,EU-West,3172,267,75.5
+2026-03-06,Portable Suction Units,EU-West,3206,267,65.4
+2026-03-07,Portable Suction Units,EU-West,3052,267,38.1
+2026-03-08,Portable Suction Units,EU-West,3146,267,131.1
+2026-03-09,Portable Suction Units,EU-West,3107,267,58.6
+2026-03-10,Portable Suction Units,EU-West,2983,267,229.5
+2026-03-11,Portable Suction Units,EU-West,3146,267,92.5
+2026-03-12,Portable Suction Units,EU-West,3017,267,42.5
+2026-03-13,Portable Suction Units,EU-West,3017,267,215.5
+2026-03-14,Portable Suction Units,EU-West,3105,267,43.7
+2026-03-15,Portable Suction Units,EU-West,2809,267,41.3
+2026-03-16,Portable Suction Units,EU-West,2924,267,56.2
+2026-03-17,Portable Suction Units,EU-West,2911,267,171.2
+2026-03-18,Portable Suction Units,EU-West,2889,267,60.2
+2026-03-19,Portable Suction Units,EU-West,2942,267,37.7
+2026-03-20,Portable Suction Units,EU-West,2933,267,56.4
+2026-03-21,Portable Suction Units,EU-West,2922,267,162.3
+2026-03-22,Portable Suction Units,EU-West,2886,267,222.0
+2026-03-23,Portable Suction Units,EU-West,2809,267,36.0
+2026-03-24,Portable Suction Units,EU-West,3017,267,51.1
+2026-03-25,Portable Suction Units,EU-West,2587,267,107.8
+2026-03-26,Portable Suction Units,EU-West,2900,267,58.0
+2026-03-27,Portable Suction Units,EU-West,3074,267,69.9
+2026-03-28,Portable Suction Units,EU-West,3003,267,41.1
+2026-03-29,Portable Suction Units,EU-West,2916,267,51.2
+2026-03-30,Portable Suction Units,EU-West,2791,267,75.4
+2026-03-31,Portable Suction Units,EU-West,2787,267,87.1
+2026-04-01,Portable Suction Units,EU-West,2658,267,189.9
+2026-04-02,Portable Suction Units,EU-West,2887,267,137.5
+2026-04-03,Portable Suction Units,EU-West,2503,267,192.5
+2026-04-04,Portable Suction Units,EU-West,2562,267,34.6
+2026-04-05,Portable Suction Units,EU-West,2774,267,52.3
+2026-04-06,Portable Suction Units,EU-West,2538,267,33.0
+2026-04-07,Portable Suction Units,EU-West,2624,267,93.7
+2026-04-08,Portable Suction Units,EU-West,2934,267,38.6
+2026-04-09,Portable Suction Units,EU-West,2875,267,79.9
+2026-04-10,Portable Suction Units,EU-West,2992,267,44.0
+2026-04-11,Portable Suction Units,EU-West,2328,267,97.0
+2026-04-12,Portable Suction Units,EU-West,2552,267,170.1
+2026-04-13,Portable Suction Units,EU-West,2195,267,104.5
+2026-04-14,Portable Suction Units,EU-West,2346,267,156.4
+2026-04-15,Portable Suction Units,EU-West,2208,267,45.1
+2026-04-16,Portable Suction Units,EU-West,2084,267,42.5
+2026-04-17,Portable Suction Units,EU-West,2704,267,53.0
+2026-04-18,Portable Suction Units,EU-West,2637,267,57.3
+2026-04-19,Portable Suction Units,EU-West,2097,267,41.9
+2026-04-20,Portable Suction Units,EU-West,2288,267,91.5
+2026-04-21,Portable Suction Units,EU-West,2715,267,90.5
+2026-04-22,Portable Suction Units,EU-West,2759,267,250.8
+2026-04-23,Portable Suction Units,EU-West,2053,267,27.4
+2026-04-24,Portable Suction Units,EU-West,2559,267,32.4
+2026-04-25,Portable Suction Units,EU-West,1974,267,39.5
+2026-04-26,Portable Suction Units,EU-West,2670,267,58.0
+2026-04-27,Portable Suction Units,EU-West,2529,267,81.6
+2026-04-28,Portable Suction Units,EU-West,2337,267,44.1
+2026-04-29,Portable Suction Units,EU-West,2088,267,130.5
+2026-03-01,Portable Suction Units,US-Central,712,57,31.0
+2026-03-02,Portable Suction Units,US-Central,695,57,33.1
+2026-03-03,Portable Suction Units,US-Central,672,57,21.0
+2026-03-04,Portable Suction Units,US-Central,670,57,10.0
+2026-03-05,Portable Suction Units,US-Central,666,57,13.6
+2026-03-06,Portable Suction Units,US-Central,639,57,8.2
+2026-03-07,Portable Suction Units,US-Central,548,57,21.1
+2026-03-08,Portable Suction Units,US-Central,530,57,24.1
+2026-03-09,Portable Suction Units,US-Central,598,57,8.7
+2026-03-10,Portable Suction Units,US-Central,604,57,15.9
+2026-03-11,Portable Suction Units,US-Central,430,57,10.0
+2026-03-12,Portable Suction Units,US-Central,592,57,9.9
+2026-03-13,Portable Suction Units,US-Central,495,57,9.7
+2026-03-14,Portable Suction Units,US-Central,450,57,34.6
+2026-03-15,Portable Suction Units,US-Central,380,57,15.8
+2026-03-16,Portable Suction Units,US-Central,396,57,5.7
+2026-03-17,Portable Suction Units,US-Central,600,57,13.0
+2026-03-18,Portable Suction Units,US-Central,478,57,18.4
+2026-03-19,Portable Suction Units,US-Central,573,57,9.4
+2026-03-20,Portable Suction Units,US-Central,604,57,11.8
+2026-03-21,Portable Suction Units,US-Central,223,57,11.7
+2026-03-22,Portable Suction Units,US-Central,459,57,5.9
+2026-03-23,Portable Suction Units,US-Central,337,57,5.4
+2026-03-24,Portable Suction Units,US-Central,130,57,3.2
+2026-03-25,Portable Suction Units,US-Central,482,57,6.8
+2026-03-26,Portable Suction Units,US-Central,526,57,9.9
+2026-03-27,Portable Suction Units,US-Central,80,57,1.2
+2026-03-28,Portable Suction Units,US-Central,266,57,5.0
+2026-03-29,Portable Suction Units,US-Central,385,57,12.0
+2026-03-30,Portable Suction Units,US-Central,533,57,7.4
+2026-03-31,Portable Suction Units,US-Central,0,57,0.0
+2026-04-01,Portable Suction Units,US-Central,11,57,0.5
+2026-04-02,Portable Suction Units,US-Central,149,57,4.7
+2026-04-03,Portable Suction Units,US-Central,130,57,7.2
+2026-04-04,Portable Suction Units,US-Central,456,57,7.9
+2026-04-05,Portable Suction Units,US-Central,0,57,0.0
+2026-04-06,Portable Suction Units,US-Central,267,57,9.9
+2026-04-07,Portable Suction Units,US-Central,0,57,0.0
+2026-04-08,Portable Suction Units,US-Central,406,57,14.0
+2026-04-09,Portable Suction Units,US-Central,0,57,0.0
+2026-04-10,Portable Suction Units,US-Central,0,57,0.0
+2026-04-11,Portable Suction Units,US-Central,226,57,4.5
+2026-04-12,Portable Suction Units,US-Central,0,57,0.0
+2026-04-13,Portable Suction Units,US-Central,0,57,0.0
+2026-04-14,Portable Suction Units,US-Central,0,57,0.0
+2026-04-15,Portable Suction Units,US-Central,0,57,0.0
+2026-04-16,Portable Suction Units,US-Central,346,57,7.4
+2026-04-17,Portable Suction Units,US-Central,0,57,0.0
+2026-04-18,Portable Suction Units,US-Central,418,57,7.6
+2026-04-19,Portable Suction Units,US-Central,0,57,0.0
+2026-04-20,Portable Suction Units,US-Central,0,57,0.0
+2026-04-21,Portable Suction Units,US-Central,0,57,0.0
+2026-04-22,Portable Suction Units,US-Central,0,57,0.0
+2026-04-23,Portable Suction Units,US-Central,138,57,4.3
+2026-04-24,Portable Suction Units,US-Central,226,57,6.6
+2026-04-25,Portable Suction Units,US-Central,0,57,0.0
+2026-04-26,Portable Suction Units,US-Central,0,57,0.0
+2026-04-27,Portable Suction Units,US-Central,175,57,6.5
+2026-04-28,Portable Suction Units,US-Central,247,57,20.6
+2026-04-29,Portable Suction Units,US-Central,0,57,0.0
+2026-03-01,Saline Solution IV (1L),US-East,693,71,11.0
+2026-03-02,Saline Solution IV (1L),US-East,767,71,12.0
+2026-03-03,Saline Solution IV (1L),US-East,735,71,10.8
+2026-03-04,Saline Solution IV (1L),US-East,687,71,8.6
+2026-03-05,Saline Solution IV (1L),US-East,704,71,11.9
+2026-03-06,Saline Solution IV (1L),US-East,661,71,20.0
+2026-03-07,Saline Solution IV (1L),US-East,586,71,58.6
+2026-03-08,Saline Solution IV (1L),US-East,609,71,15.2
+2026-03-09,Saline Solution IV (1L),US-East,599,71,13.6
+2026-03-10,Saline Solution IV (1L),US-East,530,71,9.5
+2026-03-11,Saline Solution IV (1L),US-East,620,71,8.7
+2026-03-12,Saline Solution IV (1L),US-East,590,71,24.6
+2026-03-13,Saline Solution IV (1L),US-East,510,71,25.5
+2026-03-14,Saline Solution IV (1L),US-East,421,71,9.4
+2026-03-15,Saline Solution IV (1L),US-East,441,71,22.1
+2026-03-16,Saline Solution IV (1L),US-East,382,71,18.2
+2026-03-17,Saline Solution IV (1L),US-East,387,71,20.4
+2026-03-18,Saline Solution IV (1L),US-East,338,71,4.3
+2026-03-19,Saline Solution IV (1L),US-East,364,71,7.4
+2026-03-20,Saline Solution IV (1L),US-East,640,71,12.1
+2026-03-21,Saline Solution IV (1L),US-East,644,71,9.2
+2026-03-22,Saline Solution IV (1L),US-East,293,71,4.2
+2026-03-23,Saline Solution IV (1L),US-East,419,71,6.7
+2026-03-24,Saline Solution IV (1L),US-East,399,71,8.5
+2026-03-25,Saline Solution IV (1L),US-East,553,71,11.5
+2026-03-26,Saline Solution IV (1L),US-East,194,71,4.5
+2026-03-27,Saline Solution IV (1L),US-East,33,71,0.5
+2026-03-28,Saline Solution IV (1L),US-East,480,71,30.0
+2026-03-29,Saline Solution IV (1L),US-East,368,71,28.3
+2026-03-30,Saline Solution IV (1L),US-East,132,71,6.6
+2026-03-31,Saline Solution IV (1L),US-East,62,71,3.3
+2026-04-01,Saline Solution IV (1L),US-East,381,71,9.1
+2026-04-02,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-03,Saline Solution IV (1L),US-East,282,71,25.6
+2026-04-04,Saline Solution IV (1L),US-East,498,71,15.6
+2026-04-05,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-06,Saline Solution IV (1L),US-East,76,71,1.3
+2026-04-07,Saline Solution IV (1L),US-East,409,71,9.5
+2026-04-08,Saline Solution IV (1L),US-East,320,71,4.4
+2026-04-09,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-10,Saline Solution IV (1L),US-East,439,71,15.7
+2026-04-11,Saline Solution IV (1L),US-East,383,71,5.2
+2026-04-12,Saline Solution IV (1L),US-East,16,71,0.3
+2026-04-13,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-14,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-15,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-16,Saline Solution IV (1L),US-East,404,71,25.2
+2026-04-17,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-18,Saline Solution IV (1L),US-East,64,71,0.9
+2026-04-19,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-20,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-21,Saline Solution IV (1L),US-East,250,71,3.2
+2026-04-22,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-23,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-24,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-25,Saline Solution IV (1L),US-East,433,71,19.7
+2026-04-26,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-27,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-28,Saline Solution IV (1L),US-East,0,71,0.0
+2026-04-29,Saline Solution IV (1L),US-East,306,71,7.3
+2026-03-01,Saline Solution IV (1L),EU-West,2850,199,71.2
+2026-03-02,Saline Solution IV (1L),EU-West,2870,199,84.4
+2026-03-03,Saline Solution IV (1L),EU-West,2836,199,85.9
+2026-03-04,Saline Solution IV (1L),EU-West,2774,199,252.2
+2026-03-05,Saline Solution IV (1L),EU-West,2866,199,159.2
+2026-03-06,Saline Solution IV (1L),EU-West,2711,199,123.2
+2026-03-07,Saline Solution IV (1L),EU-West,2819,199,42.1
+2026-03-08,Saline Solution IV (1L),EU-West,2760,199,60.0
+2026-03-09,Saline Solution IV (1L),EU-West,2744,199,196.0
+2026-03-10,Saline Solution IV (1L),EU-West,2587,199,123.2
+2026-03-11,Saline Solution IV (1L),EU-West,2567,199,69.4
+2026-03-12,Saline Solution IV (1L),EU-West,2601,199,104.0
+2026-03-13,Saline Solution IV (1L),EU-West,2794,199,133.0
+2026-03-14,Saline Solution IV (1L),EU-West,2597,199,99.9
+2026-03-15,Saline Solution IV (1L),EU-West,2498,199,75.7
+2026-03-16,Saline Solution IV (1L),EU-West,2794,199,84.7
+2026-03-17,Saline Solution IV (1L),EU-West,2608,199,37.8
+2026-03-18,Saline Solution IV (1L),EU-West,2765,199,40.7
+2026-03-19,Saline Solution IV (1L),EU-West,2684,199,41.9
+2026-03-20,Saline Solution IV (1L),EU-West,2603,199,62.0
+2026-03-21,Saline Solution IV (1L),EU-West,2680,199,59.6
+2026-03-22,Saline Solution IV (1L),EU-West,2773,199,47.8
+2026-03-23,Saline Solution IV (1L),EU-West,2519,199,148.2
+2026-03-24,Saline Solution IV (1L),EU-West,2534,199,79.2
+2026-03-25,Saline Solution IV (1L),EU-West,2688,199,37.3
+2026-03-26,Saline Solution IV (1L),EU-West,2643,199,44.0
+2026-03-27,Saline Solution IV (1L),EU-West,2172,199,30.2
+2026-03-28,Saline Solution IV (1L),EU-West,2570,199,32.5
+2026-03-29,Saline Solution IV (1L),EU-West,2394,199,64.7
+2026-03-30,Saline Solution IV (1L),EU-West,2153,199,93.6
+2026-03-31,Saline Solution IV (1L),EU-West,2346,199,54.6
+2026-04-01,Saline Solution IV (1L),EU-West,2627,199,138.3
+2026-04-02,Saline Solution IV (1L),EU-West,2073,199,49.4
+2026-04-03,Saline Solution IV (1L),EU-West,2272,199,189.3
+2026-04-04,Saline Solution IV (1L),EU-West,2234,199,77.0
+2026-04-05,Saline Solution IV (1L),EU-West,2008,199,200.8
+2026-04-06,Saline Solution IV (1L),EU-West,2703,199,45.8
+2026-04-07,Saline Solution IV (1L),EU-West,2501,199,48.1
+2026-04-08,Saline Solution IV (1L),EU-West,2269,199,226.9
+2026-04-09,Saline Solution IV (1L),EU-West,2085,199,29.4
+2026-04-10,Saline Solution IV (1L),EU-West,2175,199,120.8
+2026-04-11,Saline Solution IV (1L),EU-West,2377,199,237.7
+2026-04-12,Saline Solution IV (1L),EU-West,2009,199,80.4
+2026-04-13,Saline Solution IV (1L),EU-West,1926,199,35.0
+2026-04-14,Saline Solution IV (1L),EU-West,2226,199,36.5
+2026-04-15,Saline Solution IV (1L),EU-West,1682,199,80.1
+2026-04-16,Saline Solution IV (1L),EU-West,1834,199,34.6
+2026-04-17,Saline Solution IV (1L),EU-West,1917,199,40.8
+2026-04-18,Saline Solution IV (1L),EU-West,2354,199,73.6
+2026-04-19,Saline Solution IV (1L),EU-West,2576,199,43.7
+2026-04-20,Saline Solution IV (1L),EU-West,2334,199,48.6
+2026-04-21,Saline Solution IV (1L),EU-West,2022,199,87.9
+2026-04-22,Saline Solution IV (1L),EU-West,2048,199,28.4
+2026-04-23,Saline Solution IV (1L),EU-West,1485,199,22.5
+2026-04-24,Saline Solution IV (1L),EU-West,2300,199,85.2
+2026-04-25,Saline Solution IV (1L),EU-West,2199,199,169.2
+2026-04-26,Saline Solution IV (1L),EU-West,1604,199,40.1
+2026-04-27,Saline Solution IV (1L),EU-West,1893,199,105.2
+2026-04-28,Saline Solution IV (1L),EU-West,1625,199,33.2
+2026-04-29,Saline Solution IV (1L),EU-West,1565,199,23.4
+2026-03-01,Hydrocortisone Cream (1oz),EU-West,230,59,4.3
+2026-03-02,Hydrocortisone Cream (1oz),EU-West,281,59,4.6
+2026-03-03,Hydrocortisone Cream (1oz),EU-West,180,59,2.4
+2026-03-04,Hydrocortisone Cream (1oz),EU-West,179,59,6.2
+2026-03-05,Hydrocortisone Cream (1oz),EU-West,189,59,4.8
+2026-03-06,Hydrocortisone Cream (1oz),EU-West,270,59,19.3
+2026-03-07,Hydrocortisone Cream (1oz),EU-West,227,59,3.2
+2026-03-08,Hydrocortisone Cream (1oz),EU-West,235,59,3.4
+2026-03-09,Hydrocortisone Cream (1oz),EU-West,111,59,7.4
+2026-03-10,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-11,Hydrocortisone Cream (1oz),EU-West,88,59,5.5
+2026-03-12,Hydrocortisone Cream (1oz),EU-West,148,59,6.7
+2026-03-13,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-14,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-15,Hydrocortisone Cream (1oz),EU-West,179,59,7.5
+2026-03-16,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-17,Hydrocortisone Cream (1oz),EU-West,19,59,0.3
+2026-03-18,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-19,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-20,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-21,Hydrocortisone Cream (1oz),EU-West,164,59,5.1
+2026-03-22,Hydrocortisone Cream (1oz),EU-West,82,59,3.3
+2026-03-23,Hydrocortisone Cream (1oz),EU-West,24,59,0.4
+2026-03-24,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-25,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-26,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-27,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-28,Hydrocortisone Cream (1oz),EU-West,16,59,1.3
+2026-03-29,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-30,Hydrocortisone Cream (1oz),EU-West,42,59,1.3
+2026-03-31,Hydrocortisone Cream (1oz),EU-West,95,59,2.1
+2026-04-01,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-02,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-03,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-04,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-05,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-06,Hydrocortisone Cream (1oz),EU-West,13,59,0.3
+2026-04-07,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-08,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-09,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-10,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-11,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-12,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-13,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-14,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-15,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-16,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-17,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-18,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-19,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-20,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-21,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-22,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-23,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-24,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-25,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-26,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-27,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-28,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-04-29,Hydrocortisone Cream (1oz),EU-West,0,59,0.0
+2026-03-01,Hydrocortisone Cream (1oz),US-East,1686,278,24.1
+2026-03-02,Hydrocortisone Cream (1oz),US-East,1712,278,107.0
+2026-03-03,Hydrocortisone Cream (1oz),US-East,1735,278,62.0
+2026-03-04,Hydrocortisone Cream (1oz),US-East,1613,278,23.7
+2026-03-05,Hydrocortisone Cream (1oz),US-East,1612,278,28.3
+2026-03-06,Hydrocortisone Cream (1oz),US-East,1580,278,46.5
+2026-03-07,Hydrocortisone Cream (1oz),US-East,1642,278,37.3
+2026-03-08,Hydrocortisone Cream (1oz),US-East,1578,278,60.7
+2026-03-09,Hydrocortisone Cream (1oz),US-East,1478,278,86.9
+2026-03-10,Hydrocortisone Cream (1oz),US-East,1612,278,67.2
+2026-03-11,Hydrocortisone Cream (1oz),US-East,1577,278,23.2
+2026-03-12,Hydrocortisone Cream (1oz),US-East,1601,278,30.2
+2026-03-13,Hydrocortisone Cream (1oz),US-East,1518,278,50.6
+2026-03-14,Hydrocortisone Cream (1oz),US-East,1434,278,46.3
+2026-03-15,Hydrocortisone Cream (1oz),US-East,1423,278,36.5
+2026-03-16,Hydrocortisone Cream (1oz),US-East,1399,278,18.4
+2026-03-17,Hydrocortisone Cream (1oz),US-East,1544,278,22.1
+2026-03-18,Hydrocortisone Cream (1oz),US-East,1442,278,32.0
+2026-03-19,Hydrocortisone Cream (1oz),US-East,1335,278,32.6
+2026-03-20,Hydrocortisone Cream (1oz),US-East,1404,278,21.6
+2026-03-21,Hydrocortisone Cream (1oz),US-East,1492,278,51.4
+2026-03-22,Hydrocortisone Cream (1oz),US-East,1291,278,129.1
+2026-03-23,Hydrocortisone Cream (1oz),US-East,1579,278,105.3
+2026-03-24,Hydrocortisone Cream (1oz),US-East,1235,278,88.2
+2026-03-25,Hydrocortisone Cream (1oz),US-East,1208,278,20.1
+2026-03-26,Hydrocortisone Cream (1oz),US-East,1519,278,22.7
+2026-03-27,Hydrocortisone Cream (1oz),US-East,1409,278,70.5
+2026-03-28,Hydrocortisone Cream (1oz),US-East,1594,278,25.7
+2026-03-29,Hydrocortisone Cream (1oz),US-East,1433,278,26.1
+2026-03-30,Hydrocortisone Cream (1oz),US-East,1347,278,64.1
+2026-03-31,Hydrocortisone Cream (1oz),US-East,1060,278,21.6
+2026-04-01,Hydrocortisone Cream (1oz),US-East,1089,278,83.8
+2026-04-02,Hydrocortisone Cream (1oz),US-East,1108,278,41.0
+2026-04-03,Hydrocortisone Cream (1oz),US-East,1208,278,36.6
+2026-04-04,Hydrocortisone Cream (1oz),US-East,1215,278,17.6
+2026-04-05,Hydrocortisone Cream (1oz),US-East,873,278,87.3
+2026-04-06,Hydrocortisone Cream (1oz),US-East,868,278,45.7
+2026-04-07,Hydrocortisone Cream (1oz),US-East,1152,278,15.0
+2026-04-08,Hydrocortisone Cream (1oz),US-East,1130,278,17.7
+2026-04-09,Hydrocortisone Cream (1oz),US-East,1247,278,15.8
+2026-04-10,Hydrocortisone Cream (1oz),US-East,1291,278,64.5
+2026-04-11,Hydrocortisone Cream (1oz),US-East,1122,278,66.0
+2026-04-12,Hydrocortisone Cream (1oz),US-East,1051,278,65.7
+2026-04-13,Hydrocortisone Cream (1oz),US-East,941,278,16.8
+2026-04-14,Hydrocortisone Cream (1oz),US-East,661,278,44.1
+2026-04-15,Hydrocortisone Cream (1oz),US-East,984,278,30.8
+2026-04-16,Hydrocortisone Cream (1oz),US-East,728,278,40.4
+2026-04-17,Hydrocortisone Cream (1oz),US-East,1212,278,44.9
+2026-04-18,Hydrocortisone Cream (1oz),US-East,1124,278,14.2
+2026-04-19,Hydrocortisone Cream (1oz),US-East,447,278,6.3
+2026-04-20,Hydrocortisone Cream (1oz),US-East,602,278,16.7
+2026-04-21,Hydrocortisone Cream (1oz),US-East,1142,278,22.4
+2026-04-22,Hydrocortisone Cream (1oz),US-East,1027,278,13.9
+2026-04-23,Hydrocortisone Cream (1oz),US-East,791,278,17.6
+2026-04-24,Hydrocortisone Cream (1oz),US-East,1286,278,22.6
+2026-04-25,Hydrocortisone Cream (1oz),US-East,657,278,9.1
+2026-04-26,Hydrocortisone Cream (1oz),US-East,546,278,21.8
+2026-04-27,Hydrocortisone Cream (1oz),US-East,464,278,5.9
+2026-04-28,Hydrocortisone Cream (1oz),US-East,961,278,14.3
+2026-04-29,Hydrocortisone Cream (1oz),US-East,793,278,44.1
