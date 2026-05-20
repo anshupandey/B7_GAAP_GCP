@@ -7,7 +7,7 @@
 set -euo pipefail
 
 if [ -z "${PROJECT_ID:-}" ]; then
-  echo "ERROR: Set PROJECT_ID first → export PROJECT_ID=your-gcp-project-id"
+  echo "ERROR: Set PROJECT_ID first → export PROJECT_ID=bdc-trainings"
   exit 1
 fi
 
